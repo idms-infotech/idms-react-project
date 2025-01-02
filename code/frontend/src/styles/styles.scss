@@ -1,11 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 // @import "default";
 @import "variables";
+@import "form";
+@import "img_btn";
 
 /* Importing Bootstrap SCSS file. */
 @import "bootstrap/scss/bootstrap";
 @import "custom";
-@import "~@ng-select/ng-select/themes/default.theme.css";
+// @import "~@ng-select/ng-select/themes/default.theme.css";
 
 :root {
     zoom: 100%;
