@@ -1,0 +1,511 @@
+@import "variables";
+
+.col-form-label,
+.form-label {
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin: 0;
+    color: var(--bs-color-transaction) !important;
+}
+
+// .formPage {
+//   .leave-app_container {
+//     tr {
+//       background-color: #e3eaf1;
+//     }
+
+//     .section {
+//       border-collapse: collapse;
+//       border: 1.3px solid white;
+//       font-size: 1.2rem;
+//       padding: 0.4rem 0.9rem;
+//     }
+//   }
+//   .leave-app_empty-box {
+//     height: 14.1rem;
+//     width: 17rem;
+//   }
+//   .card-form {
+//     box-shadow: 3px 3px 9px 1px #c1c1c1;
+
+//     .form-header {
+//       color: var(--bs-white);
+//       background-color: var(--bs-secondary);
+
+//       .heading {
+//         padding-left: 2.85rem;
+//         margin: 0.2rem;
+//         font-size: 1.5rem;
+//         font-weight: 300;
+//       }
+//     }
+
+//     .form-body {
+//       padding: 1rem 1rem 0 1rem;
+
+//       .line-border {
+//         border: 1px solid var(--bs-secondary);
+//         opacity: 1;
+//       }
+
+//       .form-btn-sm {
+//         height: 1.8rem;
+//         font-size: 1rem !important;
+//       }
+
+//       .settingMargin {
+//         margin-top: 1.5rem;
+//         margin-bottom: 1rem;
+//       }
+
+//       .openModelLink {
+//         color: var(--bs-primary);
+//       }
+//       th,
+//       td {
+//         padding: 0.2rem 0.4rem;
+//         font-size: 1.2rem !important;
+//         line-height: 2.2rem;
+
+//         input {
+//           font-size: 1.2rem !important;
+//         }
+//       }
+//     }
+//   }
+// }
+.modal-dialog.modal-dialog-centered.modal-lg-xl {
+    max-width: 110rem !important;
+}
+.modal-dialog.modal-dialog-centered.modal-mlg-lg {
+    max-width: 95rem !important;
+}
+.modal-dialog.modal-dialog-centered.modal-md-lg {
+    max-width: 80rem !important;
+}
+.modal-dialog.modal-dialog-centered.modal-sm-lg {
+    max-width: 65rem !important;
+}
+.modal-dialog.modal-dialog-centered.modal-sm-md {
+    max-width: 32rem !important;
+}
+.modal-dialog.modal-dialog-centered.modal-xs-sm {
+    max-width: 48rem !important;
+}
+.modelPage {
+    .modal-dialog {
+        max-width: 115rem;
+    }
+    td:not(:last-child) {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 14rem !important;
+    }
+
+    .line-border {
+        border: 0.094rem solid var(--bs-secondary);
+        opacity: 1;
+    }
+
+    .line-border-with-title {
+        border-top: 0.2rem solid var(--bs-secondary);
+        opacity: 1;
+        display: flex;
+        justify-content: center;
+        margin-top: 2rem;
+        span {
+            background-color: var(--bs-secondary);
+            color: white;
+            font-size: 1.2rem;
+            border-radius: 0 0 0.4rem 0.4rem;
+            padding: 0.1rem 0 0.3rem 0;
+        }
+    }
+
+    .combine-INR {
+        background-color: white;
+        height: 2.8rem !important;
+        border-radius: 0rem !important;
+        font-size: 1.4rem !important;
+        border-right: none;
+    }
+
+    .modal-header {
+        display: flex;
+        justify-content: space-between;
+        color: var(--bs-white) !important;
+        background-color: var(--bs-secondary) !important;
+
+        .heading {
+            padding-left: 2rem;
+            font-size: 1.5rem !important;
+            font-weight: 400;
+        }
+
+        .btn-cross {
+            height: 2.4rem !important;
+            background-color: var(--bs-white) !important;
+
+            i {
+                font-size: 1.7rem;
+                color: var(--bs-secondary) !important;
+                vertical-align: text-top;
+            }
+        }
+    }
+
+    .form-text-area {
+        height: auto !important;
+    }
+    .bg-blue {
+        background-color: #0096ff !important;
+    }
+    .bg-red {
+        background-color: #ff0064 !important;
+    }
+    .bg-green {
+        background-color: #00c800 !important;
+    }
+    .bg-yellow {
+        background-color: #ffaf00 !important;
+    }
+    .bg-yellow-color {
+        background-color: #fffff0 !important;
+    }
+    .bg-pink-color {
+        background-color: #fff0ff !important;
+    }
+    .bg-magenta-color {
+        background-color: #f0ffff !important;
+    }
+    .bg-white-smoke {
+        background-color: #f5f5f5 !important;
+    }
+    .bg-mix-pink-color {
+        background-color: #fff5ff !important;
+    }
+    .form-btn-sm {
+        height: 1.6rem !important;
+        font-size: 1rem !important;
+    }
+    .modal-body {
+        box-sizing: border-box;
+
+        .form-label {
+            color: var(--bs-secondary) !important;
+        }
+
+        padding: 2rem 3rem 0 3rem !important;
+
+        .table {
+            .bg-primary {
+                background-color: var(--bs-secondary) !important;
+            }
+        }
+    }
+
+    .form-control-size-sx {
+        margin: 0px !important;
+        height: 2.4rem !important;
+        width: 7rem !important;
+        box-shadow: rgba(0, 0, 0, 0.35) 0 1px 2px !important;
+    }
+    .form-control-size-sm {
+        margin: 0px !important;
+        height: 2.4rem !important;
+        width: 13rem !important;
+    }
+    .form-control-size-lg {
+        margin: 0px !important;
+        height: 2.4rem !important;
+        width: 19rem !important;
+    }
+    .form-control-size-xl {
+        margin: 0px !important;
+        height: 2.4rem !important;
+        width: 28rem !important;
+    }
+}
+
+.form-control,
+.form-select {
+    height: 2.8rem !important;
+    font-size: 1.4rem !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+    border-radius: 1.5px !important;
+    color: #5a5a5a !important;
+
+    &:disabled {
+        background-color: #f8f8f8 !important;
+    }
+}
+
+.form-check-label {
+    color: var(--bs-secondary) !important;
+    font-size: 1.4rem !important;
+}
+
+.ng-option {
+    color: #5a5a5a !important;
+}
+
+.ng-option-label {
+    font-weight: 400 !important;
+}
+
+.ng-dropdown-panel .ng-dropdown-panel-items .ng-option.ng-option-marked :hover {
+    white-space: wrap !important;
+}
+
+.ng-select {
+    font-size: 1.3rem !important;
+
+    .ng-select-container {
+        height: 2.8rem !important;
+        min-height: 2.8rem;
+        border-radius: 1.5px;
+        color: #5a5a5a !important;
+    }
+}
+
+.form-control-sm {
+    height: 1.5rem !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0 2px 5px !important;
+}
+
+.form-check-input {
+    height: 1.5rem !important;
+    width: 1.5rem !important;
+}
+
+.form-check-input:focus {
+    // border-radius: 50% !important;
+    border: none !important;
+}
+
+.inputGroup {
+    input[type="text"] {
+        margin-top: 0 !important;
+    }
+
+    .form-control {
+        margin-top: 0 !important;
+    }
+
+    .input-group-text {
+        font-size: 1.4rem !important;
+        border-radius: 0 !important;
+        height: 2.8rem !important;
+    }
+}
+
+.empName-card {
+    border-radius: 0px !important;
+
+    .card-body {
+        box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.3), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+    }
+}
+
+.empName-card:hover {
+    .card-body {
+        transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+        box-shadow: 0 3px 3px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.22) !important;
+    }
+}
+
+.emp-grade {
+    p {
+        font-size: 1.4rem;
+    }
+}
+
+.skuForm {
+    .input-group-text {
+        height: 2.8rem !important;
+        border-left: none;
+    }
+}
+
+.form-page {
+    .leave-app_container {
+        tr {
+            background-color: #e3eaf1;
+        }
+
+        .section {
+            border-collapse: collapse;
+            border: 1.3px solid white;
+            font-size: 1.2rem;
+            padding: 0.4rem 0.9rem;
+        }
+    }
+    .leave-app_empty-box {
+        height: 14.1rem;
+        width: 17rem;
+    }
+    .card-form {
+        box-shadow: 3px 3px 9px 1px #c1c1c1;
+        padding-bottom: 1rem;
+        // padding: 0 -1px 1rem -1px;
+        margin-top: 1rem;
+
+        .form-header {
+            color: var(--bs-white);
+            background-color: var(--bs-secondary);
+
+            .heading {
+                padding-left: 2.85rem;
+                margin: 0.2rem;
+                font-size: 1.5rem;
+                font-weight: 300;
+            }
+        }
+
+        .form-body {
+            padding: 1.5rem 1rem 0 1rem;
+            // padding-top: 1.5rem;
+
+            .line-border {
+                border: 0.094rem solid var(--bs-secondary);
+                opacity: 1;
+                margin-right: -3.4rem;
+                margin-left: -3.4rem;
+                // margin: 2rem 0;
+            }
+            .line-border-with-title {
+                border-top: 0.2rem solid var(--bs-secondary);
+                opacity: 1;
+                margin-right: -3.4rem;
+                margin-left: -3.4rem;
+                display: flex;
+                justify-content: center;
+                margin-top: 2rem;
+                span {
+                    background-color: var(--bs-secondary);
+                    color: white;
+                    font-size: 1.2rem;
+                    border-radius: 0 0 0.4rem 0.4rem;
+                    padding: 0.1rem 0 0.3rem 0;
+                }
+            }
+
+            .form-btn-sm {
+                height: 1.8rem;
+                font-size: 1rem !important;
+            }
+
+            .settingMargin {
+                margin-top: 1.5rem;
+                margin-bottom: 1rem;
+            }
+
+            .openModelLink {
+                color: var(--bs-primary);
+            }
+            .table-responsive {
+                td:not(:last-child) {
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    max-width: 14rem !important;
+                }
+                .ng-select.ng-select-single .ng-select-container .ng-value-container .ng-input {
+                    top: 0px !important;
+                }
+                th,
+                td {
+                    padding: 0.2rem 0.4rem;
+                    font-size: 1.2rem !important;
+                    line-height: 2.5rem;
+
+                    input {
+                        font-size: 1.2rem !important;
+                    }
+                }
+            }
+
+            // .btn-primary {
+            //   min-width: 10rem;
+            //   padding: 0.5rem 2.5rem;
+            // }
+        }
+    }
+    .form-text-area {
+        height: auto !important;
+    }
+    .bg-yellow-color {
+        background-color: #fffff0 !important;
+    }
+    .bg-pink-color {
+        background-color: #fff0ff !important;
+    }
+    .bg-magenta-color {
+        background-color: #f0ffff !important;
+    }
+
+    .form-control-size-sm {
+        margin: 0px !important;
+        height: 2.4rem !important;
+        width: 7rem !important;
+    }
+    .form-control-size-lg {
+        margin: 0px !important;
+        height: 2.4rem !important;
+        width: 10rem !important;
+    }
+}
+
+.flagGreen {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/Aging_Green.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+    margin-top: 0.5rem;
+}
+.flagRed {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/Aging_Red.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+    margin-top: 0.5rem;
+}
+.flagOrange {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/Aging_Orange.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+    margin-top: 0.5rem;
+}
+
+.separate-row {
+    position: relative;
+    .set-position {
+        position: absolute;
+        top: 2rem;
+        right: -0.5rem;
+    }
+}
+.separate-image {
+    position: relative;
+    .image-position {
+        position: absolute;
+        top: 0rem;
+        left: -0.5rem;
+    }
+}
+

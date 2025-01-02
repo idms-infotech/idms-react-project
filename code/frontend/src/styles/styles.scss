@@ -1,0 +1,191 @@
+/* You can add global styles to this file, and also import other style files */
+// @import "default";
+@import "variables";
+
+/* Importing Bootstrap SCSS file. */
+@import "bootstrap/scss/bootstrap";
+@import "custom";
+@import "~@ng-select/ng-select/themes/default.theme.css";
+
+:root {
+    zoom: 100%;
+    // font-size: .732vw;
+    font-size: 0.732vw;
+
+    // 1rem = 10px = .732vw
+    // font-size:clamp(8px, 0.66vw, 0.66vw);
+    --vw-font-1: 0.0732vw;
+    --vw-font-10: 0.732vw;
+    --vw-font-12: 0.878vw;
+    --vw-font-14: 1.024vw;
+    // --vw-font-14: 1.024vw;
+    --vh-font-22: 1.61vw;
+
+    --vh-font-1: 0.153vh;
+    --vh-font-10: 1.538vh;
+    --vh-font-12: 1.46vh;
+
+    --bs-color-master: #009696;
+    --bs-color-transaction: #007daf;
+    --bs-color-report: #ff0064;
+    --bs-table-color: #7d7d7d;
+
+    --bs-addtable-color: #009696;
+    --bs-b2b-subheding: #ff0064;
+    --bs-b2b-heading: #007dfa;
+}
+
+* {
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    display: none;
+}
+
+.ng-select.ng-select-single .ng-select-container .ng-value-container,
+.ng-select.ng-select-single .ng-select-container .ng-value-container .ng-value {
+    color: black;
+}
+
+.statusSpanHeight {
+    background-color: white !important;
+    height: 2.8rem !important;
+    border-radius: 0rem !important;
+    border-left: none;
+}
+
+
+.statusSelectBorder {
+    border-right: none;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    /* Change the color of the calendar icon (for Chrome and Safari) */
+    // filter: invert(1); /* Invert the color of the icon */
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_Date_selection.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.2rem;
+    width: 1.2rem;
+    // height: 2.4rem;
+    // width: 1.4rem;
+    // border-left: 2px solid #e0dbdb;
+    // padding-left: 0.8rem;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+    /* Change the color of the calendar icon (for Chrome and Safari) */
+    // filter: invert(1); /* Invert the color of the icon */
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/03_clock_icon.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 2.4rem;
+    width: 1.6rem;
+    border-left: 2px solid #e0dbdb;
+    padding-left: 0.8rem;
+}
+
+.custom-radio-container {
+    position: relative;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+    /* Hide the default radio button */
+    input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+    }
+
+    /* Style for the custom radio button label */
+    .custom-radio-label {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+
+    /* Style for the custom inner button */
+    .custom-radio-button {
+        width: 12px;
+        height: 12px;
+        background-color: #e83e8c;
+        border-radius: 3px;
+        opacity: 0;
+        transition: opacity 0.2s;
+    }
+
+    /* Show the custom inner button when the radio button is checked */
+    input[type="radio"]:checked + .custom-radio-label .custom-radio-button {
+        opacity: 1;
+    }
+}
+
+.custom-checkbox-container {
+    position: relative;
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    border: 1px solid var(--bs-magenta);
+    border-radius: 5px;
+
+    /* Hide the default checkbox */
+    input[type="checkbox"] {
+        position: absolute;
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+    }
+
+    /* Style for the custom checkbox label */
+    .custom-checkbox-label {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+
+    /* Style for the custom inner box */
+    .custom-checkbox-box {
+        width: 12px;
+        height: 12px;
+        background-color: #e83e8c;
+        border-radius: 3px;
+        opacity: 0;
+        transition: opacity 0.2s;
+    }
+
+    /* Show the custom inner box when the checkbox is checked */
+    input[type="checkbox"]:checked + .custom-checkbox-label .custom-checkbox-box {
+        opacity: 1;
+    }
+
+    input[type="checkbox"]:disabled + .custom-checkbox-label .custom-checkbox-box {
+        opacity: 1;
+        width: 18px !important;
+        height: 18px !important;
+        background-color: #f0f0f0 !important;
+    }
+}
