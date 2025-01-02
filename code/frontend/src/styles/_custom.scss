@@ -1,0 +1,76 @@
+@import "dashboard";
+@import "form";
+@import "table";
+@import "tabs";
+@import "_img_btn";
+@import "print";
+@import "_report_table";
+@import "_form_style";
+@import "_table_style";
+
+.text-label {
+    font-size: 1.4rem;
+    margin: 0;
+    font-weight: 400 !important;
+    color: rgb(70, 70, 70) !important;
+}
+
+.btn,
+.btn-check:checked + .btn,
+.btn-check:active + .btn,
+.btn:hover,
+.btn.active,
+.btn.focus,
+.btn.show {
+    font-weight: 400 !important;
+    font-size: 1.4rem !important;
+    color: white !important;
+    border-radius: 2px;
+}
+
+.isDisable {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.toast-container {
+    font-size: 1.4rem !important;
+}
+
+.set-flex-status {
+    font-size: 1.4rem;
+    color: white;
+    background-color: var(--bs-primary);
+    height: 2.8rem !important;
+    white-space: nowrap;
+    display: flex;
+    align-items: center !important;
+    border-radius: 0.094rem;
+}
+.my-tooltip-class {
+    font-size: 1.4rem !important;
+}
+.main-content-wrapper {
+    width: calc(100% - 6.6rem) !important;
+    margin: 0 3.5rem;
+    padding: 0;
+}
+
+.custom-modal {
+    .modal-dialog {
+        width: 90rem !important;
+        max-width: 90rem !important;
+    }
+}
+.custom-modal-sm {
+    .modal-dialog {
+        width: 60rem !important;
+        max-width: 60rem !important;
+    }
+}
+.custom-modal-md {
+    .modal-dialog {
+        width: 75rem !important;
+        max-width: 75rem !important;
+    }
+}

@@ -77,20 +77,8 @@
 .modal-dialog.modal-dialog-centered.modal-lg-xl {
     max-width: 110rem !important;
 }
-.modal-dialog.modal-dialog-centered.modal-mlg-lg {
-    max-width: 95rem !important;
-}
-.modal-dialog.modal-dialog-centered.modal-md-lg {
-    max-width: 80rem !important;
-}
 .modal-dialog.modal-dialog-centered.modal-sm-lg {
     max-width: 65rem !important;
-}
-.modal-dialog.modal-dialog-centered.modal-sm-md {
-    max-width: 32rem !important;
-}
-.modal-dialog.modal-dialog-centered.modal-xs-sm {
-    max-width: 48rem !important;
 }
 .modelPage {
     .modal-dialog {
@@ -157,18 +145,6 @@
 
     .form-text-area {
         height: auto !important;
-    }
-    .bg-blue {
-        background-color: #0096ff !important;
-    }
-    .bg-red {
-        background-color: #ff0064 !important;
-    }
-    .bg-green {
-        background-color: #00c800 !important;
-    }
-    .bg-yellow {
-        background-color: #ffaf00 !important;
     }
     .bg-yellow-color {
         background-color: #fffff0 !important;
@@ -508,4 +484,3 @@
         left: -0.5rem;
     }
 }
-

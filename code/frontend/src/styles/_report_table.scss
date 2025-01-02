@@ -1,0 +1,72 @@
+.reportTablePage {
+    .row {
+        margin: 0;
+    }
+    .combine-INR {
+        background-color: white;
+        height: 2.8rem !important;
+        border-radius: 0rem !important;
+        font-size: 1.4rem !important;
+        border-right: none;
+    }
+    .table-body {
+        .table-footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100vw;
+            padding-bottom: 1rem;
+        }
+        padding-bottom: 1rem;
+        margin-top: 1rem;
+        box-shadow: 3px 3px 9px 1px #c1c1c1;
+        .table-header {
+            color: var(--bs-white);
+            background-color: var(--bs-secondary);
+            .heading {
+                padding-left: 1.3rem;
+                margin: 0.2rem;
+                font-size: 1.5rem;
+                font-weight: 300;
+            }
+        }
+
+        .btn-add {
+            margin: 1.5rem 0;
+        }
+
+        .line-border {
+            border: 0.094rem solid var(--bs-secondary);
+            opacity: 1;
+        }
+
+        .settingMargin {
+            margin-top: 2rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .pointer {
+            cursor: pointer;
+            max-height: 16px;
+        }
+
+        .table-responsive {
+            font-size: 1.1rem;
+            margin: 0.5rem 1rem 1rem 1rem;
+            .table {
+                margin: 0px 1.7rem !important;
+                width: 96vw;
+            }
+
+            // min-height: 43.5rem;
+            word-wrap: break-word !important;
+            td:not(:last-child) {
+                // max-width: 21rem;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                max-width: 20rem;
+            }
+        }
+    }
+}

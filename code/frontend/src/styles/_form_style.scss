@@ -1,0 +1,267 @@
+.transaction-page {
+    padding: 1rem 4rem 0 4rem !important;
+    .container-fluid {
+        width: auto !important;
+    }
+    .form-container {
+        width: auto !important;
+        box-shadow: 3px 3px 9px 1px #c1c1c1;
+        padding: 0 0 1rem 0;
+        .container-header {
+            color: var(--bs-white);
+            background-color: var(--bs-secondary);
+
+            .heading {
+                padding-left: 2.85rem;
+                margin: 0.2rem;
+                font-size: 1.5rem;
+                font-weight: 300;
+            }
+        }
+
+        .container-body {
+            // padding: 1.2rem 0.5rem 0 0.5rem;
+
+            .line-border {
+                border: 0.094rem solid var(--bs-secondary);
+                opacity: 1;
+                // margin-right: -2.4rem;
+                // margin-left: -2.4rem;
+            }
+            .line-border-with-title {
+                border-top: 0.2rem solid var(--bs-secondary);
+                opacity: 1;
+                // margin-right: -2.4rem;
+                // margin-left: -2.4rem;
+                display: flex;
+                justify-content: center;
+                margin-top: 2rem;
+                span {
+                    background-color: var(--bs-secondary);
+                    color: white;
+                    font-size: 1.2rem;
+                    border-radius: 0 0 0.4rem 0.4rem;
+                    padding: 0.1rem 0 0.3rem 0;
+                }
+            }
+
+            .form-btn-sm {
+                height: 1.8rem;
+                font-size: 1rem !important;
+            }
+
+            .settingMargin {
+                margin-top: 1.5rem;
+                margin-bottom: 1rem;
+            }
+
+            .openModelLink {
+                color: var(--bs-primary);
+            }
+            .table-responsive {
+                .ng-select.ng-select-single .ng-select-container .ng-value-container .ng-input {
+                    top: 0px !important;
+                }
+                th,
+                td {
+                    padding: 0.2rem 0.4rem;
+                    font-size: 1.2rem !important;
+                    line-height: 2.5rem;
+
+                    input {
+                        font-size: 1.2rem !important;
+                    }
+                }
+            }
+        }
+        .form-text-area {
+            height: auto !important;
+        }
+        .bg-yellow-color {
+            background-color: #fffff0 !important;
+        }
+        .bg-pink-color {
+            background-color: #fff0ff !important;
+        }
+        .bg-honey-dew-color {
+            background-color: #f0fff0 !important;
+        }
+        .bg-magenta-color {
+            background-color: #f0ffff !important;
+        }
+        .bg-mix-pink-color {
+            background-color: #fff5ff !important;
+        }
+        .bg-white-smoke {
+            background-color: #f5f5f5 !important;
+        }
+        .combine-INR {
+            background-color: white;
+            height: 2.8rem !important;
+            border-radius: 0rem !important;
+            font-size: 1.4rem !important;
+            border-right: none;
+        }
+
+        .form-control-size-sm {
+            margin: 0px !important;
+            height: 2.4rem !important;
+            width: 8rem !important;
+            text-align: center;
+        }
+        .form-control-size-lg {
+            margin: 0px !important;
+            height: 2.4rem !important;
+            width: 10rem !important;
+            text-align: center;
+        }
+    }
+}
+.formCard {
+    padding: 0;
+    margin: 4rem 0.8rem 0 0.8rem;
+    box-shadow: 3px 3px 9px 1px #c1c1c1;
+    .row {
+        margin-bottom: 1rem;
+    }
+
+    // remaining margin and responsive form screen
+    .set-remaining-margin {
+        margin-left: 1.8rem !important;
+        margin-right: 1.8rem !important;
+    }
+
+    .bg-mix-pink-color {
+        background-color: #fff5ff !important;
+    }
+    .bg-gray-color {
+        background-color: #f5f5f5 !important;
+    }
+    .bg-pink-color {
+        background-color: #fff0ff !important;
+    }
+    .bg-honey-dew-color {
+        background-color: #f0fff0 !important;
+    }
+    .bg-white-smoke {
+        background-color: #f5f5f5 !important;
+    }
+    .bg-yellow-color {
+        background-color: #fffff0 !important;
+    }
+    .bg-azure-color {
+        background-color: #f5ffff !important;
+    }
+    .bg-magenta-color {
+        background-color: #f0ffff !important;
+    }
+    .combine-INR {
+        background-color: white;
+        height: 2.8rem !important;
+        border-radius: 0rem !important;
+        font-size: 1.4rem !important;
+        border-right: none;
+    }
+    .form-header {
+        color: var(--bs-white);
+        background-color: var(--bs-secondary);
+        margin-bottom: 0;
+        .heading {
+            padding-left: 2.85rem;
+            margin: 0.2rem;
+            font-size: 1.5rem;
+            font-weight: 300;
+        }
+    }
+    .form-body {
+        padding: 1.2rem 0 0 0;
+
+        .form-btn-sm {
+            height: 1.8rem;
+            font-size: 1rem !important;
+        }
+
+        .settingMargin {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .openModelLink {
+            color: var(--bs-primary);
+        }
+    }
+    .form-text-area {
+        height: auto !important;
+    }
+    .line-border {
+        border: 0.094rem solid var(--bs-secondary);
+        opacity: 1;
+    }
+    .line-border-with-title {
+        border-top: 0.2rem solid var(--bs-secondary);
+        opacity: 1;
+        display: flex;
+        justify-content: center;
+        margin-top: 2rem;
+        span {
+            background-color: var(--bs-secondary);
+            color: white;
+            font-size: 1.2rem;
+            border-radius: 0 0 0.4rem 0.4rem;
+            padding: 0.1rem 0 0.3rem 0;
+        }
+    }
+    .table-responsive {
+        td:not(:last-child) {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 16rem;
+        }
+        .set-overflow-unset {
+            overflow: unset !important;
+        }
+        .ng-select.ng-select-single .ng-select-container .ng-value-container .ng-input {
+            top: 0px !important;
+        }
+        th,
+        td {
+            padding: 0.2rem 0.4rem;
+            font-size: 1.2rem !important;
+            line-height: 2.5rem;
+
+            input {
+                font-size: 1.2rem !important;
+            }
+        }
+        .form-control-sm {
+            margin: 0;
+            height: 1.3rem;
+            width: 7rem !important;
+            text-align: center;
+            box-shadow: rgba(0, 0, 0, 0.35) 0 1px 2px !important;
+        }
+        input[type="date" i] {
+            width: 11rem !important;
+        }
+        .form-control-size-xs {
+            margin: 0;
+            height: 2.4rem !important;
+            width: 4.5rem !important;
+            text-align: center;
+            box-shadow: rgba(0, 0, 0, 0.35) 0 1px 2px !important;
+        }
+        .form-control-size-lg {
+            margin: 0px !important;
+            height: 2.4rem !important;
+            width: 10rem !important;
+            box-shadow: rgba(0, 0, 0, 0.35) 0 1px 2px !important;
+        }
+        .form-control-size-xl {
+            margin: 0px !important;
+            height: 2.4rem !important;
+            width: 15rem !important;
+            box-shadow: rgba(0, 0, 0, 0.35) 0 1px 2px !important;
+        }
+    }
+}

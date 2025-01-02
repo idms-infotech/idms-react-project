@@ -1,0 +1,213 @@
+.poPrint,
+.spoPrint {
+  .poformat .page {
+    padding: 20px;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .row {
+    --bs-gutter-x: 3.7rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -0.5);
+    margin-left: calc(var(--bs-gutter-x) * -0.5);
+  }
+
+  .col {
+    flex: 1 0 0%;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+
+  button {
+    background: red;
+    color: white;
+    height: 30px;
+    width: 100px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: 1.4rem;
+    font-weight: 400;
+    cursor: pointer;
+  }
+
+  table,
+  tr,
+  td {
+    color: black !important;
+    border-collapse: collapse;
+    width: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: 0.25px solid hsla(0, 0%, 49%, 0.8);
+    width: 100%;
+    table-layout: fixed;
+    padding: 0px;
+    border: 1px solid;
+  }
+
+  // .tableStyle,
+  // .poformat {
+  //   border: 1px solid #000 !important;
+  //   width: 100%;
+  //   height: 100%;
+  //   padding: 5px !important;
+  //   margin: 0 !important;
+  //   text-align: center;
+  //   font-size: 14px;
+  // }
+
+  .fw-bold {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .font_le {
+    text-align: left;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: black;
+  }
+
+  .font_ce {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+
+  .th {
+    text-align: left;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: lightgrey;
+    border: 1px solid;
+  }
+
+  span {
+    font-size: 14px;
+    // margin-bottom: 5px;
+    // margin-left: 10px;
+    // margin-top: 5px;
+    // color: black;
+    // font-size: 12px;
+  }
+
+  .s_font {
+    text-align: left;
+    font-size: 12px;
+    // margin-left: 3px;
+  }
+
+  b {
+    font-weight: bold;
+    color: black;
+  }
+
+  .term_font {
+    text-align: left;
+    font-size: 12px;
+    margin-left: 10px;
+  }
+}
+
+.empGrade {
+  .gradeStructurePrintScreen {
+    .gradeStructureColor {
+      margin-bottom: 0;
+      color: #009696 !important;
+      font-weight: 400;
+      font-size: 2rem;
+      margin-top: 0.5rem;
+    }
+
+    .gradeStructureShadow {
+      height: 6.18vh !important;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.05);
+      box-shadow: 0.25px 0px 2px rgba(50, 75, 125, 0.5);
+    }
+  }
+}
+
+.mrnPrint,
+.grnPrint {
+  .border {
+    box-shadow: 0.25px 0 2px rgba(50, 75, 125, 0.5);
+  }
+}
+
+.printScreen {
+  padding-top: 1rem;
+
+  b {
+    font-weight: 700;
+  }
+  * {
+    font-size: 1.25rem;
+    font-weight: 600 !important;
+    margin: 0;
+    font-family: Arial !important ;
+  }
+
+  .table > :not(caption) > * > * {
+    padding: 0.2rem;
+    background-color: transparent !important;
+  }
+
+  .table-responsive {
+    padding: 1.5rem 1rem;
+
+    th,
+    td {
+      padding: 0.5rem 1rem;
+      text-align: left;
+      border: 1px solid black;
+      color: black;
+
+      .page-title {
+        text-align: center !important;
+        padding: 0;
+        font-size: 2.5rem;
+        font-weight: bold;
+      }
+    }
+
+    .rateCol {
+      width: 8%;
+    }
+  }
+
+  .img-sign {
+    width: 7.8rem;
+    height: 7.8rem;
+    object-fit: cover;
+  }
+
+  .table-responsive .table th {
+    background: #e6e6e6 !important;
+    color: black !important;
+    font-weight: 500;
+  }
+}
+
+.img-sign {
+  height: 100%;
+  object-fit: cover !important;
+  width: 100%;
+}
+
+.img-pdfHeader {
+  object-fit: cover !important;
+  width: 100% !important;
+}

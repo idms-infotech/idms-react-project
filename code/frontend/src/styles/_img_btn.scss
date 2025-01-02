@@ -1,0 +1,513 @@
+.nextPreviousButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 2rem;
+    margin-top: 2rem;
+}
+
+.back-arrow {
+    background: url("./../assets/buttons/Prev.svg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: 4rem;
+    height: 2.8rem;
+}
+
+.next-arrow {
+    background: url("./../assets/buttons/Next.svg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: 4rem;
+    height: 2.8em;
+    font-size: 1.05rem;
+}
+
+.bomDocInfo {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/icon_add_info.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.4rem;
+    width: 2.4rem;
+}
+.DU-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/DU_icon.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+.info-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/info_icon.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.select-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/select.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.vbp_1-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/vbp_1.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.vbp_2-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/vbp_2.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.statusActive {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/statusActive.png");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.2rem;
+    width: 2.2rem;
+}
+.statusYellow {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/status_yellow.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.2rem;
+    width: 2.2rem;
+}
+.statusOrange {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/status_orange.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.2rem;
+    width: 2.2rem;
+}
+
+.statusInActive {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/statusInactive.png");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.2rem;
+    width: 2.2rem;
+}
+.plusIconSvg {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/asset_add.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.2rem;
+    width: 2.2rem;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+.plusSmallIconSvg {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/asset_add.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2.2rem;
+    width: 2.2rem;
+    padding: 1.2rem 1.2rem 1rem 1rem;
+}
+.flaggreen {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/Aging_Green.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.flagYellow {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/Aging_Orange.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+
+.flagred {
+    background-color: transparent;
+    background-image: url("./../assets/buttons/Aging_Red.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.drawingIcon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/dwg_icon.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+.FGMip {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/FG_mip.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+.child-item-red {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/child_item_red.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+.child-item-grey {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/child_item_grey.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+.assetCalendarTD {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Schd.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.unit-switch {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/unit_switch.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.unit-switch-gray {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/DU_grey_icon.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 1.7rem;
+    width: 1.7rem;
+}
+.unit-switch-rev {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/DU_icon.svg");
+    background-size: 100% 100%;
+    border: 0;
+    color: white;
+    height: 1.7rem;
+    width: 1.7rem;
+}
+.edit-grey {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/edit_grey.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+.add-grey {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/add_grey.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.add-red {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/add_red.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.add-blue {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/add_blue.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.rename-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/01_Rename.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.delete-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/04_Delete.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.move-to-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/03_Moveto.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.move-up-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/02_Moveup.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.sku-stage-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/sku_stage.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.8rem;
+    width: 1.8rem;
+}
+.asset-alert-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_Alert.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.asset-quality-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_quality.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.2rem;
+    width: 1.2rem;
+}
+.asset-rate-reco-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_Rate_reco.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.asset-inward-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_inward.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.asset-rate-reco-gray-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_Rate_reco_gray.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.asset-tickmark-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_Tickmark.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.move-down-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/03_Movedown.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.approve-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/04_Approve.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.revision-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/05_Revision.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.add-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/01_Add.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.edit-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/03_Edit.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.7rem;
+    width: 1.7rem;
+}
+.view-btn {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/02_View.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.7rem;
+    width: 1.7rem;
+}
+.duplicate-icon {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Duplicate.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.add-red-one {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/add_red_1.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 2rem;
+    width: 2rem;
+}
+
+.sps-child {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/child.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 3rem;
+    width: 3rem;
+}
+.sps-parent {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Parent.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.4rem;
+    width: 1.4rem;
+}
+.sps-DUC {
+    background-color: transparent;
+    background-image: url("./../assets/new_icons/Asset_DUC.svg");
+    background-size: 100% 100%;
+    border: 0;
+    // padding: 1.7rem 1.9rem;
+    color: white;
+    height: 1.6rem;
+    width: 1.6rem;
+}

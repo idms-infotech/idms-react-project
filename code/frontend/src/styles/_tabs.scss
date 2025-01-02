@@ -1,0 +1,81 @@
+.tabs-card-page {
+    width: 60rem;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-top: 3rem;
+    overflow: auto;
+
+    .card {
+        margin-bottom: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: cover;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100% 100%;
+        border: 0px !important;
+        width: 16.6rem !important;
+        height: 11.6rem !important;
+        text-align: center;
+        cursor: pointer;
+
+        .card-title {
+            font-size: 1.4rem;
+            padding: 0 0.9rem;
+            color: var(--bs-dark);
+        }
+    }
+
+    .disabled {
+        cursor: not-allowed !important;
+        opacity: 0.6;
+    }
+
+    .masterCard {
+        background-image: url("../assets/newButtons/assetForTxn.svg");
+    }
+
+
+
+    .txnCard {
+        background-image: url("../assets/newButtons/assetForTxn.svg");
+    }
+
+    .reportCard {
+        background-image: url("../assets/newButtons/assetForTxn.svg");
+    }
+    .isDisplayFalse {
+        background-image: url("../assets/new_icons/isDisplayFalse.svg");
+    }
+}
+
+.tabs-card {
+    box-shadow: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: transparent;
+
+    .nav-item {
+        display: grid !important;
+    }
+
+    a {
+        flex: 1 0;
+        font-weight: 500;
+        font-size: 1.4rem;
+        border-radius: 2px;
+        margin-bottom: 1rem;
+        color: var(--bs-white) !important;
+        background-color: var(--bs-tertiary) !important;
+        border: 1px solid var(--bs-white);
+    }
+
+    .active {
+        color: var(--bs-white) !important;
+        background-color: var(--bs-primary) !important;
+        border: 1px solid var(--bs-white);
+    }
+}
