@@ -1,0 +1,27 @@
+[
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "labelName": "SKU Name",
+        "displayLabelName": "SKU Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "labelName": "SKU No.",
+        "displayLabelName": "SKU No."
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "labelName": "SKU Info",
+        "displayLabelName": "SKU Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "labelName": "D-SKU Name",
+        "displayLabelName": "D-SKU Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "labelName": "D-SKU Info",
+        "displayLabelName": "D-SKU Info"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "6616837a3483ab8b9fa20e96",
+        "processName": "Stock Preparation"
+    },
+    {
+        "_id": "6616837a3483ab8b9fa20ea3",
+        "processName": "Ink Mixing"
+    },
+    {
+        "_id": "6616837b3483ab8b9fa20eb0",
+        "processName": "Screen Making"
+    },
+    {
+        "_id": "6616837b3483ab8b9fa20ebd",
+        "processName": "Printing on CPI"
+    },
+    {
+        "_id": "6616837c3483ab8b9fa20eca",
+        "processName": "Kiss-cutting"
+    },
+    {
+        "_id": "6616837c3483ab8b9fa20ed7",
+        "processName": "Weeding"
+    },
+    {
+        "_id": "6616837d3483ab8b9fa20ee4",
+        "processName": "Lamination"
+    },
+    {
+        "_id": "6616837d3483ab8b9fa20ef1",
+        "processName": "Through Punching"
+    },
+    {
+        "_id": "6616837e3483ab8b9fa20efe",
+        "processName": "Packing"
+    }
+]

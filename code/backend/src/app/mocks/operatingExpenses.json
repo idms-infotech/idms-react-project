@@ -1,0 +1,58 @@
+[
+    {
+        "year": 22,
+        "operatingCostDetails": {
+            "rent": 0,
+            "indirectSalaries": 0,
+            "insurance": 0,
+            "maintenance": 0,
+            "consumables": 0
+        },
+        "totalOperatingCost": 0,
+        "totalUnitsProduced": 0,
+        "percentageAllocation": 0,
+        "opexCostPerUnit": 0
+    },
+    {
+        "year": 23,
+        "operatingCostDetails": {
+            "rent": 0,
+            "indirectSalaries": 0,
+            "insurance": 0,
+            "maintenance": 0,
+            "consumables": 0
+        },
+        "totalOperatingCost": 0,
+        "totalUnitsProduced": 0,
+        "percentageAllocation": 0,
+        "opexCostPerUnit": 0
+    },
+    {
+        "year": 24,
+        "operatingCostDetails": {
+            "rent": 0,
+            "indirectSalaries": 0,
+            "insurance": 0,
+            "maintenance": 0,
+            "consumables": 0
+        },
+        "totalOperatingCost": 0,
+        "totalUnitsProduced": 0,
+        "percentageAllocation": 0,
+        "opexCostPerUnit": 0
+    },
+    {
+        "year": 25,
+        "operatingCostDetails": {
+            "rent": 0,
+            "indirectSalaries": 0,
+            "insurance": 0,
+            "maintenance": 0,
+            "consumables": 0
+        },
+        "totalOperatingCost": 0,
+        "totalUnitsProduced": 0,
+        "percentageAllocation": 0,
+        "opexCostPerUnit": 0
+    }
+]

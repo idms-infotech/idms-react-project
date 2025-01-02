@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "655c3c233613e949b4d61dd1",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "TRANSACTION",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Task Scheduling",
+        "displayName": "Task Scheduling",
+        "disabled": false,
+        "url": "/default/maintenance/transactions/task-scheduling/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c233613e949b4d61dd6",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "TRANSACTION",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Generate Work Order",
+        "displayName": "Generate Work Order",
+        "disabled": false,
+        "url": "/default/maintenance/transactions/work-order-generation/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c233613e949b4d61ddb",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "TRANSACTION",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Calibration and Verification",
+        "displayName": "Calibration and Verification",
+        "disabled": false,
+        "url": "/default/maintenance/transactions/calibration-and-verification/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c233613e949b4d61de0",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "TRANSACTION",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Maintenance Schedule",
+        "displayName": "Maintenance Schedule",
+        "disabled": false,
+        "url": "/default/maintenance/transactions/maintenance-schedule/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "672da46b77ac88d253b7dad0",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "TRANSACTION",
+        "order": 5,
+        "isDisplay": false,
+        "title": "Breakdown Maintenance",
+        "displayName": "Breakdown Maintenance",
+        "disabled": false,
+        "url": "/default/maintenance/transactions/breakdown_maintenance/list",
+        "items": [],
+        "roles": []
+    }
+]

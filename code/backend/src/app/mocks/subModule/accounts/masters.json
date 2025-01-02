@@ -1,0 +1,103 @@
+[
+    {
+        "_id": "6565b1d4ce8ccfc98a361066",
+        "menuItemId": "64a6c1e33339d4dc9d8141ac",
+        "module": "Accounts",
+        "roles": [],
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Customer Address",
+        "displayName": "Customer Address",
+        "disabled": false,
+        "url": "/default/accounts/master/customer_address/form",
+        "items": []
+    },
+    {
+        "_id": "67079c518a72e96c78190067",
+        "menuItemId": "64a6c1e33339d4dc9d8141ac",
+        "module": "Accounts",
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "STD Cost Sheet",
+        "displayName": "STD Cost Sheet",
+        "disabled": false,
+        "url": "/default/accounts/tabs/master-tabs",
+        "items": [
+            {
+                "menuItemId": "64a6c1e33339d4dc9d8141ac",
+                "module": "Accounts",
+                "type": "MASTER",
+                "order": 1,
+                "isDisplay": false,
+                "title": "SKU BOM",
+                "displayName": "SKU BOM",
+                "disabled": false,
+                "url": "/default/accounts/master/bill-of-material/bom_of_sku_IPM/list",
+                "_id": "67079d298a72e96c78190068"
+            },
+            {
+                "menuItemId": "64a6c1e33339d4dc9d8141ac",
+                "module": "Accounts",
+                "type": "MASTER",
+                "order": 2,
+                "isDisplay": false,
+                "title": "JW Item BOM",
+                "displayName": "JW Item BOM",
+                "disabled": false,
+                "url": "/default/accounts/master/bill-of-material/bom_of_job_work_item/list",
+                "_id": "67079d368a72e96c78190069"
+            },
+            {
+                "menuItemId": "66eab409cb318e021494d291",
+                "module": "Accounts",
+                "type": "MASTER",
+                "order": 3,
+                "isDisplay": false,
+                "title": "Production Item BOM",
+                "displayName": "Production Item BOM",
+                "disabled": false,
+                "url": "/default/accounts/master/bill-of-material/bom_of_prod_item/list",
+                "_id": "67079d3d8a72e96c7819006a"
+            },
+            {
+                "menuItemId": "64a6c1e33339d4dc9d8141ac",
+                "module": "Accounts",
+                "type": "MASTER",
+                "order": 4,
+                "isDisplay": false,
+                "title": "JW Item Cost Cost",
+                "displayName": "JW Item Cost Cost",
+                "disabled": false,
+                "url": "/default/accounts/master/bill-of-material/jwi_std_cost/list",
+                "_id": "6707b5bd8a72e96c7819006b"
+            },
+            {
+                "menuItemId": "64a6c1e33339d4dc9d8141ac",
+                "module": "Accounts",
+                "type": "MASTER",
+                "order": 5,
+                "isDisplay": false,
+                "title": "Production Item STD Cost",
+                "displayName": "Production Item STD Cost",
+                "disabled": false,
+                "url": "/default/accounts/master/bill-of-material/prod_item_std_cost/list",
+                "_id": "6707b5c58a72e96c7819006c"
+            },
+            {
+                "menuItemId": "64a6c1e33339d4dc9d8141ac",
+                "module": "Accounts",
+                "type": "MASTER",
+                "order": 6,
+                "isDisplay": false,
+                "title": "KIT SKU BOM",
+                "displayName": "KIT SKU BOM",
+                "disabled": false,
+                "url": "/default/accounts/master/bill-of-material/bom_of_sku_kit/list",
+                "_id": "67402574ec76dcf5ff7dd446"
+            }
+        ],
+        "roles": []
+    }
+]

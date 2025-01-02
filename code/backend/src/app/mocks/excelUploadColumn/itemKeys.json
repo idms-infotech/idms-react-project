@@ -1,0 +1,23 @@
+{
+    "Item Category": "itemType",
+    "Item Name": "itemName",
+    "RM Code": "RMCode",
+    "Item Info": "itemDescription",
+    "Primary Unit": "primaryUnit",
+    "Secondary Unit": "secondaryUnit",
+    "Conversion Factor": "primaryToSecondaryConversion",
+    "HSN Code": "hsn",
+    "Shelf Life [Months]": "shelfLife",
+    "Quality Control Level": "QCLevels",
+    "External Provider Code": "supplierCode",
+    "Customer/External Provider": "referenceModel",
+    "Mfr. Part No.": "spin",
+    "Manufacturer Name": "manufacturerName",
+    "External Provider Purchase Rate Type": "purchaseRateType",
+    "MOQ 1": "MOQ1",
+    "Purchase Cost Rate 1": "rate1",
+    "MOQ 2": "MOQ2",
+    "Purchase Cost Rate 2": "rate2",
+    "MOQ 3": "MOQ3",
+    "Purchase Cost Rate 3": "rate3"
+}

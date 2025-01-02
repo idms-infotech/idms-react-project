@@ -1,0 +1,108 @@
+[
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a5",
+        "menuItemName": "Purchase",
+        "reportName": "PO_DOMESTICS",
+        "reportDesc": null,
+        "reportTemplate": null,
+        "templateOptions": [
+            {
+                "label": "Regular POD",
+                "value": "Regular POD"
+            },
+            {
+                "label": "PO Domestic",
+                "value": "PO Domestic"
+            }
+        ]
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a5",
+        "menuItemName": "Purchase",
+        "reportName": "PO_IMPORTS",
+        "reportDesc": null,
+        "reportTemplate": null,
+        "templateOptions": [
+            {
+                "label": "Regular POI",
+                "value": "Regular POI"
+            },
+            {
+                "label": "PO Imports",
+                "value": "PO Imports"
+            }
+        ]
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a5",
+        "menuItemName": "Sales",
+        "reportName": "PI_DOMESTICS",
+        "reportDesc": null,
+        "reportTemplate": null,
+        "templateOptions": [
+            {
+                "label": "PI Domestic",
+                "value": "PI Domestic"
+            }
+        ]
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a5",
+        "menuItemName": "Sales",
+        "reportName": "PI_EXPORTS",
+        "reportDesc": null,
+        "reportTemplate": null,
+        "templateOptions": [
+            {
+                "label": "PI Exports",
+                "value": "PI Exports"
+            }
+        ]
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a5",
+        "menuItemName": "Sales",
+        "reportName": "TI_DOMESTICS",
+        "reportDesc": null,
+        "reportTemplate": null,
+        "templateOptions": [
+            {
+                "label": "Turnover less than 5 CR",
+                "value": "Turnover less than 5 CR"
+            },
+            {
+                "label": "Turnover less than 5 CR with Dispatch",
+                "value": "Turnover less than 5 CR with Dispatch"
+            },
+
+            {
+                "label": "E-Invoice",
+                "value": "E-Invoice"
+            },
+            {
+                "label": "AAS-AIDS Tax-Invoice",
+                "value": "AAS-AIDS Tax-Invoice"
+            }
+        ]
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a5",
+        "menuItemName": "Sales",
+        "reportName": "TI_EXPORTS",
+        "reportDesc": null,
+        "reportTemplate": null,
+        "templateOptions": [
+            {
+                "label": "Turnover less than 5 CR",
+                "value": "Turnover less than 5 CR"
+            },
+            {
+                "label": "Turnover less than 5 CR",
+                "value": "Turnover less than 5 CR"
+            },
+            {"label": "Turnover less than 5 CR with Dispatch", "value": "Turnover less than 5 CR with Dispatch"},
+            {"label": "E-Invoice", "value": "E-Invoice"},
+            {"label": "AAS-AIDS Tax-Invoice", "value": "AAS-AIDS Tax-Invoice"}
+        ]
+    }
+]

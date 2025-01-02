@@ -1,0 +1,16 @@
+{
+    "SKU No": "SKUNo",
+    "Actual unit": "actualUnit",
+    "Actual width": "actualWidth",
+    "Actual length": "actualLength",
+    "Actual ups": "actualUps",
+    "Actual area": "actualArea",
+    "Actual msq area": "actualMSqArea",
+    "Layout unit": "layoutUnit",
+    "Layout width": "layoutWidth",
+    "Layout length": "layoutLength",
+    "Layout ups": "layoutUps",
+    "Layout area": "layoutArea",
+    "Layout msq area": "layoutMSqArea",
+    "Layout waste percentage": "wastePercentage"
+}

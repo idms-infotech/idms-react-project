@@ -1,0 +1,95 @@
+[
+    {
+        "_id": "655c3c173613e949b4d61932",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Employee Master",
+        "displayName": "Employee Master",
+        "disabled": false,
+        "url": "/default/HR/master/employee/emp-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c173613e949b4d6191b",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "MASTER",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Statutory Contribution",
+        "displayName": "Statutory Contribution",
+        "disabled": false,
+        "url": "/default/HR/master/statutory_contribution",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c183613e949b4d61970",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "MASTER",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Salary Components",
+        "displayName": "Salary Components",
+        "disabled": false,
+        "url": "/default/HR/master/salary_components/sc-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c183613e949b4d619c4",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "MASTER",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Salary Master Management Staff",
+        "displayName": "Salary Master Management Staff",
+        "disabled": false,
+        "url": "/default/HR/master/salary_master_MS/SMMS-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c183613e949b4d61a10",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "MASTER",
+        "order": 5,
+        "isDisplay": false,
+        "title": "Paid Holidays",
+        "displayName": "Paid Holidays",
+        "disabled": false,
+        "url": "/default/HR/master/paid_holidays/ph-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c183613e949b4d61a65",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "MASTER",
+        "order": 6,
+        "isDisplay": false,
+        "title": "Paid Leaves [PL/CompOff/AL]",
+        "displayName": "Paid Leaves [PL/CompOff/AL]",
+        "disabled": false,
+        "url": "/default/HR/master/paid_leaves/pl-list",
+        "items": [],
+        "roles": [],
+        "featureConfig": [
+            {
+                "featureCode": "MAX_PT_FOR_EMP",
+                "featureDesc": "Max PT For Employee",
+                "status": true,
+                "type": "text",
+                "value": "80"
+            }
+        ]
+    }
+]

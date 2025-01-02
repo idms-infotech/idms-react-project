@@ -1,0 +1,111 @@
+[
+    {
+        "_id": "656845c3b7bae97900164e8c",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "roles": [],
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Formulation Master",
+        "displayName": "Formulation Master",
+        "disabled": false,
+        "url": "/default/production/master/ink_master/list",
+        "items": [],
+        "featureConfig": [
+            {
+                "featureCode": "ADD_LAB_VALUES",
+                "featureDesc": "Add Lab Values InkMaster",
+                "status": true,
+                "type": "text",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "_id": "661691cefbecc291a3531308",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "MASTER",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Mould Master",
+        "displayName": "Mould Master",
+        "disabled": false,
+        "url": "/default/production/master/mould_master/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "6718e54d7720db3f6e1e11c3",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "MASTER",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Prod Unit Without SKU",
+        "displayName": "Prod Unit Without SKU",
+        "disabled": false,
+        "url": null,
+        "items": [
+            {
+                "_id": "6718e5577720db3f6e1e11c4",
+                "menuItemId": "64a6c1e33339d4dc9d8141a8",
+                "module": "Production",
+                "type": "MASTER",
+                "order": 1,
+                "isDisplay": false,
+                "title": "Production Items",
+                "displayName": "Production Items",
+                "disabled": false,
+                "url": "/default/production/master/production_item_master/list",
+                "items": [],
+                "roles": []
+            }
+        ],
+        "roles": []
+    },
+    {
+        "_id": "6718e5317720db3f6e1e11c1",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "MASTER",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Prod Unit With SKU",
+        "displayName": "Prod Unit With SKU",
+        "disabled": false,
+        "url": null,
+        "items": [
+            {
+                "_id": "6718e53a7720db3f6e1e11c2",
+                "menuItemId": "64a6c1e33339d4dc9d8141a8",
+                "module": "Production",
+                "type": "MASTER",
+                "order": 1,
+                "isDisplay": false,
+                "title": "Production Items",
+                "displayName": "Production Items",
+                "disabled": false,
+                "url": "/default/production/master/production_item_master/list",
+                "items": [],
+                "roles": []
+            }
+        ],
+        "roles": []
+    },
+    {
+        "_id": "673efae78f611bb4e0738e0e",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "MASTER",
+        "order": 5,
+        "isDisplay": false,
+        "title": "KIT Master",
+        "displayName": "KIT Master",
+        "disabled": false,
+        "url": "/default/production/master/kit_master/list",
+        "items": [],
+        "roles": []
+    }
+]

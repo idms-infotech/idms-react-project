@@ -1,0 +1,387 @@
+[
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c1",
+      "order": 1,
+      "description": "NUMBERS",
+      "label": "NOS",
+      "value": "NOS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c2",
+      "order": 2,
+      "description": "PIECES",
+      "label": "PCS",
+      "value": "PCS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c3",
+      "order": 3,
+      "description": "UNITS",
+      "label": "UNT",
+      "value": "UNT",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c4",
+      "order": 4,
+      "description": "SETS",
+      "label": "SET",
+      "value": "SET",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c5",
+      "order": 5,
+      "description": "KILOGRAMS",
+      "label": "KGS",
+      "value": "KGS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c6",
+      "order": 6,
+      "description": "LITRES",
+      "label": "LTR",
+      "value": "LTR",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c7",
+      "order": 7,
+      "description": "ROLLS",
+      "label": "ROL",
+      "value": "ROL",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c8",
+      "order": 8,
+      "description": "SHEETS",
+      "label": "SHT",
+      "value": "SHT",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5c9",
+      "order": 9,
+      "description": "SQUARE METERS",
+      "label": "SQM",
+      "value": "SQM",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ca",
+      "order": 10,
+      "description": "SQUARE FEET",
+      "label": "SQF",
+      "value": "SQF",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5cb",
+      "order": 11,
+      "description": "DRUMS",
+      "label": "DRM",
+      "value": "DRM",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5cc",
+      "order": 12,
+      "description": "CANS",
+      "label": "CAN",
+      "value": "CAN",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5cd",
+      "order": 13,
+      "description": "BAGS",
+      "label": "BAG",
+      "value": "BAG",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ce",
+      "order": 14,
+      "description": "BOTTLES",
+      "label": "BTL",
+      "value": "BTL",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5cf",
+      "order": 15,
+      "description": "CARTONS",
+      "label": "CTN",
+      "value": "CTN",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d0",
+      "order": 16,
+      "description": "BOX",
+      "label": "BOX",
+      "value": "BOX",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d1",
+      "order": 17,
+      "description": "GRAMMES",
+      "label": "GMS",
+      "value": "GMS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d2",
+      "order": 18,
+      "description": "METERS",
+      "label": "MTR",
+      "value": "MTR",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d3",
+      "order": 19,
+      "description": "TONNES",
+      "label": "TON",
+      "value": "TON",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d4",
+      "order": 20,
+      "description": "BALE",
+      "label": "BAL",
+      "value": "BAL",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d5",
+      "order": 21,
+      "description": "BUNDLES",
+      "label": "BDL",
+      "value": "BDL",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d6",
+      "order": 22,
+      "description": "BUCKLES",
+      "label": "BKL",
+      "value": "BKL",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d7",
+      "order": 23,
+      "description": "BILLION OF UNITS",
+      "label": "BOU",
+      "value": "BOU",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d8",
+      "order": 24,
+      "description": "BUNCHES",
+      "label": "BUN",
+      "value": "BUN",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5d9",
+      "order": 25,
+      "description": "CUBIC METERS",
+      "label": "CBM",
+      "value": "CBM",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5da",
+      "order": 26,
+      "description": "CUBIC CENTIMETERS",
+      "label": "CCM",
+      "value": "CCM",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5db",
+      "order": 27,
+      "description": "CENTIMETERS",
+      "label": "CMS",
+      "value": "CMS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5dc",
+      "order": 28,
+      "description": "Carat",
+      "label": "CRT",
+      "value": "CRT",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5dd",
+      "order": 29,
+      "description": "DOZENS",
+      "label": "DOZ",
+      "value": "DOZ",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5de",
+      "order": 30,
+      "description": "GREAT GROSS",
+      "label": "GGK",
+      "value": "GGK",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5df",
+      "order": 31,
+      "description": "GROSS",
+      "label": "GRS",
+      "value": "GRS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e0",
+      "order": 32,
+      "description": "GROSS YARDS",
+      "label": "GYD",
+      "value": "GYD",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e1",
+      "order": 33,
+      "description": "KILOLITRE",
+      "label": "KLR",
+      "value": "KLR",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e2",
+      "order": 34,
+      "description": "KILOMETRE",
+      "label": "KME",
+      "value": "KME",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e3",
+      "order": 35,
+      "description": "MILLI LITRES",
+      "label": "MLS",
+      "value": "MLS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e4",
+      "order": 36,
+      "description": "MILILITRE",
+      "label": "MLT",
+      "value": "MLT",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e5",
+      "order": 37,
+      "description": "METRIC TON",
+      "label": "MTS",
+      "value": "MTS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e6",
+      "order": 38,
+      "description": "OTHERS",
+      "label": "OTH",
+      "value": "OTH",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e7",
+      "order": 39,
+      "description": "PACKS",
+      "label": "PAC",
+      "value": "PAC",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e8",
+      "order": 40,
+      "description": "PAIRS",
+      "label": "PRS",
+      "value": "PRS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5e9",
+      "order": 41,
+      "description": "QUINTAL",
+      "label": "QTL",
+      "value": "QTL",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ea",
+      "order": 42,
+      "description": "SQUARE YARDS",
+      "label": "SQY",
+      "value": "SQY",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5eb",
+      "order": 43,
+      "description": "TABLETS",
+      "label": "TBS",
+      "value": "TBS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ec",
+      "order": 44,
+      "description": "TEN GROSS",
+      "label": "TGM",
+      "value": "TGM",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ed",
+      "order": 45,
+      "description": "THOUSANDS",
+      "label": "THD",
+      "value": "THD",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ee",
+      "order": 46,
+      "description": "TUBES",
+      "label": "TUB",
+      "value": "TUB",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5ef",
+      "order": 47,
+      "description": "US GALLONS",
+      "label": "UGS",
+      "value": "UGS",
+      "status": "Inactive"
+    },
+    {
+      "_id": "66a886aca6fa6f53d6e7f5f0",
+      "order": 48,
+      "description": "YARDS",
+      "label": "YDS",
+      "value": "YDS",
+      "status": "Inactive"
+    }
+  ]
+  

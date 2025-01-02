@@ -1,0 +1,19 @@
+{
+    "Purchase Category": "purchaseCategory",
+    "Supplier Code": "supplierCode",
+    "Item Code": "itemCode",
+    "Item Name": "itemName",
+    "Item Info": "itemDescription",
+    "Width": "width",
+    "Length": "length",
+    "SQM": "SQM",
+    "Primary Unit": "primaryUnit",
+    "Secondary Unit": "secondaryUnit",
+    "Primary to Secondary Conversion": "primaryToSecondaryConversion",
+    "Qty": "POQty",
+    "Delivery Location": "deliveryLocation",
+    "Batch Date": "batchDate",
+    "Currency": "currency",
+    "UOM": "UOM",
+    "Item Type": "itemType"
+}

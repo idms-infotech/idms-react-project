@@ -1,0 +1,626 @@
+[
+    {
+        "moduleName": "Business Leads",
+        "menuID": "64a6c1e33339d4dc9d8141a2",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Business Leads",
+        "menuID": "64a6c1e33339d4dc9d8141a2",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Business Leads",
+        "menuID": "64a6c1e33339d4dc9d8141a2",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Business Leads",
+        "menuID": "64a6c1e33339d4dc9d8141a2",
+        "cardName": "SKU Attributes",
+        "tabType": "MASTER",
+        "parentId": "662cba5bfe3de479c01ec258",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Business Leads",
+        "menuID": "64a6c1e33339d4dc9d8141a2",
+        "cardName": "Bill of Material",
+        "tabType": "MASTER",
+        "parentId": "655c3c1c3613e949b4d61cdc",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": "GST/P Master",
+        "tabType": "MASTER",
+        "parentId": "66c433c6faca02ac6e59097b",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": "STD Cost Sheet",
+        "tabType": "MASTER",
+        "parentId": "66daf40992ffa6ecb7183cdb",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": "SKU Attributes",
+        "tabType": "MASTER",
+        "parentId": "662cb432fe3de479c01ec24c",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": "GST/S Master",
+        "tabType": "MASTER",
+        "parentId": "66c449c280d9a5ddbf8c6cc7",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Planning",
+        "menuID": "64a6c1e33339d4dc9d8141a4",
+        "cardName": "Inventory Levels",
+        "tabType": "MASTER",
+        "parentId": "66e2cec513a73ab362cd0bec",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Sales",
+        "menuID": "64a6c1e33339d4dc9d8141a3",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Sales",
+        "menuID": "64a6c1e33339d4dc9d8141a3",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Sales",
+        "menuID": "64a6c1e33339d4dc9d8141a3",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Sales",
+        "menuID": "64a6c1e33339d4dc9d8141a3",
+        "cardName": "Quotation",
+        "tabType": "TRANSACTION",
+        "parentId": "507f1f77bcf86cd799439011",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Purchase",
+        "menuID": "64a6c1e33339d4dc9d8141a5",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Purchase",
+        "menuID": "64a6c1e33339d4dc9d8141a5",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Purchase",
+        "menuID": "64a6c1e33339d4dc9d8141a5",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Stores",
+        "menuID": "64a6c1e33339d4dc9d8141a6",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Stores",
+        "menuID": "64a6c1e33339d4dc9d8141a6",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Production",
+        "menuID": "64a6c1e33339d4dc9d8141a8",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Production",
+        "menuID": "64a6c1e33339d4dc9d8141a8",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Production",
+        "menuID": "64a6c1e33339d4dc9d8141a8",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Maintenance",
+        "menuID": "64a6c1e33339d4dc9d8141a7",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Maintenance",
+        "menuID": "64a6c1e33339d4dc9d8141a7",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Maintenance",
+        "menuID": "64a6c1e33339d4dc9d8141a7",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Quality",
+        "menuID": "64a6c1e33339d4dc9d8141a9",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Quality",
+        "menuID": "64a6c1e33339d4dc9d8141a9",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Quality",
+        "menuID": "64a6c1e33339d4dc9d8141a9",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Dispatch",
+        "menuID": "64a6c1e33339d4dc9d8141aa",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Dispatch",
+        "menuID": "64a6c1e33339d4dc9d8141aa",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Dispatch",
+        "menuID": "64a6c1e33339d4dc9d8141aa",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "HR & Admin",
+        "menuID": "64a6c1e33339d4dc9d8141ab",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "HR & Admin",
+        "menuID": "64a6c1e33339d4dc9d8141ab",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "HR & Admin",
+        "menuID": "64a6c1e33339d4dc9d8141ab",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Accounts",
+        "menuID": "64a6c1e33339d4dc9d8141ac",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Accounts",
+        "menuID": "64a6c1e33339d4dc9d8141ac",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Accounts",
+        "menuID": "64a6c1e33339d4dc9d8141ac",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Accounts",
+        "menuID": "64a6c1e33339d4dc9d8141ac",
+        "cardName": "STD Cost Sheet",
+        "tabType": "MASTER",
+        "parentId": "67079c518a72e96c78190067",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Finance",
+        "menuID": "64a6c1e33339d4dc9d8141ad",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Finance",
+        "menuID": "64a6c1e33339d4dc9d8141ad",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Finance",
+        "menuID": "64a6c1e33339d4dc9d8141ad",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Finance",
+        "menuID": "64a6c1e33339d4dc9d8141ad",
+        "cardName": "Cost Sheet",
+        "tabType": "MASTER",
+        "parentId": "6548ba2e9ac0f545c6789451",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Finance",
+        "menuID": "64a6c1e33339d4dc9d8141ad",
+        "cardName": "Bill of Material",
+        "tabType": "TRANSACTION",
+        "parentId": "652123b15c2c7cde6871a4d0",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 4
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "TRANSACTION",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "REPORT",
+        "parentId": "000000000000000000000000",
+        "cardsPerRow": 3
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": "Global Master",
+        "tabType": "MASTER",
+        "parentId": "655c3c403613e949b4d620d8",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": "Security Master",
+        "tabType": "MASTER",
+        "parentId": "655c3c403613e949b4d620e1",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": "Uploads Master",
+        "tabType": "MASTER",
+        "parentId": "65d9d96e013fa67ccec702fa",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010b999e4af88e4ba6bebb",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010d299e4af88e4ba6bebc",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010d4e9e4af88e4ba6bebd",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010d709e4af88e4ba6bebe",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010dd49e4af88e4ba6bebf",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010ddd9e4af88e4ba6bec0",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010dfc9e4af88e4ba6bec1",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010e119e4af88e4ba6bec2",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010e3f9e4af88e4ba6bec3",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010e5e9e4af88e4ba6bec4",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010e759e4af88e4ba6bec5",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "67010e989e4af88e4ba6bec6",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": "Setting Master",
+        "tabType": "MASTER",
+        "parentId": "656057e2c077e1707b0b4b5b",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": "Standard Configuration",
+        "tabType": "MASTER",
+        "parentId": "6694c968188bd34071e578f8",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6ad4f77fcd256f3f22e11",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6ae8c77fcd256f3f22e12",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b34b77fcd256f3f22e14",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b49477fcd256f3f22e15",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b57a77fcd256f3f22e16",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b5ad77fcd256f3f22e17",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b5d677fcd256f3f22e18",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b5f677fcd256f3f22e19",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b61977fcd256f3f22e1a",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b8fb77fcd256f3f22e1c",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b91977fcd256f3f22e1d",
+        "cardsPerRow": 5
+    },
+    {
+        "moduleName": "Settings",
+        "menuID": "64a6c1e33339d4dc9d8141ae",
+        "cardName": null,
+        "tabType": "MASTER",
+        "parentId": "66d6b92777fcd256f3f22e1e",
+        "cardsPerRow": 5
+    }
+]

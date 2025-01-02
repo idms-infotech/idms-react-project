@@ -1,0 +1,70 @@
+<!doctype html>
+   <html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="Generator" content="EditPlus®">
+     <meta name="Author" content="">
+     <meta name="Keywords" content="">
+     <meta name="Description" content="">
+     <title>Attention: Outdoor Duty Application</title>
+     <style>
+        body{
+         font-family:"Arial";
+      }
+      table {
+         border-collapse: collapse;
+         width: 70%
+      }
+      th{
+        white-space: nowrap;
+      }
+      td, th {
+        border: 1px solid #999;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: left;
+        font-family:"Arial";
+      }
+      p{
+         font-size: 14px
+      }
+      .jc {
+         color: red
+      }
+     </style>
+    </head>
+    <body>
+      <p>
+      Dear Recipient,
+      </p>
+      <p>
+      {{message}}
+      </p>
+         <table>
+           <tr>
+           <th>Application Date</th>
+           <th>Employee Code</th>
+            <th>Employee Name</th>
+            <th>Leave Type</th>
+            <th>From Date</th>
+            <th>To Date</th>
+            <th>Total No. of days</th>
+            <th>Resumption Date</th>
+            <th>Reason</th>
+           </tr>
+           <tr>
+           <td>{{applicationDate}}</td>
+           <td>{{empCode}}</td>
+            <td>{{empFullName}}</td>
+            <td>{{ODType}}</td>
+            <td>{{fromDate}}</td>
+            <td>{{toDate}}</td>
+            <td>{{ODDays}}</td>
+            <td>{{resumptionDate}}</td>
+            <td>{{reason}}</td>
+           </tr>
+         </table>
+         <br></br>
+         <p><b>Note:</b> This is an auto generated email. Please do not reply.</p>
+      </body>
+   </html>

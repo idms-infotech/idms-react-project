@@ -1,0 +1,87 @@
+[
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "SKU Name",
+        "displayLabelName": "SKU Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "SKU No.",
+        "displayLabelName": "SKU No."
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "SKU Info",
+        "displayLabelName": "SKU Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "D-SKU Name",
+        "displayLabelName": "D-SKU Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "D-SKU Info",
+        "displayLabelName": "D-SKU Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "D-SKU Name is Required",
+        "displayLabelName": "D-SKU Name is Required"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "D-SKU Info is Required",
+        "displayLabelName": "D-SKU Info is Required"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Item Code",
+        "displayLabelName": "Item Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Item Name",
+        "displayLabelName": "Item Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Item Info",
+        "displayLabelName": "Item Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Item Cost",
+        "displayLabelName": "Item Cost"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Engineering Drawing",
+        "displayLabelName": "Engineering Drawing"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Product Specification",
+        "displayLabelName": "Product Specification"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Design mock-up file",
+        "displayLabelName": "Design mock-up file"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Artwork for processing [Ai/CDR]",
+        "displayLabelName": "Artwork for processing [Ai/CDR]"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Supplier Item Code",
+        "displayLabelName": "Supplier Item Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "labelName": "Supplier Item Info",
+        "displayLabelName": "Supplier Item Info"
+    }
+]

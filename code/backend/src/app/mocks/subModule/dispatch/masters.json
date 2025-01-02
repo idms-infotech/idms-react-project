@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "65659558e731d5b74c88697b",
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "module": "Dispatch",
+        "roles": [],
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Customer Address",
+        "displayName": "Customer Address",
+        "disabled": false,
+        "url": "/default/dispatch/master/customer_address/form",
+        "items": []
+    },
+    {
+        "_id": "655c3c1e3613e949b4d61d53",
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "module": "Dispatch",
+        "type": "MASTER",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Transporter Master",
+        "displayName": "Transporter Master",
+        "disabled": false,
+        "url": "/default/dispatch/master/transporter/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "670531ca1160b2abe9b09e0a",
+        "menuItemId": "64a6c1e33339d4dc9d8141aa",
+        "module": "Dispatch",
+        "type": "MASTER",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Logistics Master",
+        "displayName": "Logistics Master",
+        "disabled": false,
+        "url": "/default/dispatch/master/logistic_master/list",
+        "items": [],
+        "roles": []
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "Prod Item Category": "prodItemCategory",
+    "Item Name": "itemName",
+    "Item Description": "itemDescription",
+    "Primary Unit": "primaryUnit",
+    "Secondary Unit": "secondaryUnit",
+    "Conversion Factor": "primaryToSecondaryConversion",
+    "Shelf Life (Mo)": "shelfLife",
+    "BOM Level": "BOMLevel",
+    "Production Unit": "prodUnit",
+    "Inward - Inventory Zone": "inwardTo"
+}

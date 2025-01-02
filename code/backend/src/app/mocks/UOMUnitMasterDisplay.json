@@ -1,0 +1,94 @@
+[
+    
+    {
+        "label": "ℓ",
+        "value": "LTR"
+    },
+
+    {
+        "label": "cm",
+        "value": "CMS"
+    },
+    {
+        "label": "m",
+        "value": "MTR"
+    },
+    {
+        "label": "sqf",
+        "value": "SQF"
+    },
+    {
+        "label": "sqm",
+        "value": "SQM"
+    },
+    {
+        "label": "sqm"
+    },
+    {
+        "label": "ml",
+        "value": "MLT"
+    },
+
+    {
+        "label": "kl",
+        "value": "KLR"
+    },
+    {
+        "label": "g",
+        "value": "GMS"
+    },
+    {
+        "value": "KG",
+        "label": "kg"
+    },
+
+    {
+        "label": "Nos",
+        "value": "NOS"
+    },
+    {
+        "value": "PCS",
+        "label": "Pcs"
+    },
+    {
+        "value": "SET",
+        "label": "Set"
+    },
+    {
+        "label": "Pkg",
+        "value": "PAC"
+    },
+    {
+        "label": "Can",
+        "value": "CAN"
+    },
+    {
+        "label": "SHT",
+        "value": "SHT"
+    },
+    {"value": "ROL", "label": "RL"},
+    {
+        "label": "Bag",
+        "value": "BAG"
+    },
+    {
+        "label": "CTN",
+        "value": "CTN"
+    },
+    {
+        "label": "BD",
+        "value": "BDL"
+    },
+    {
+        "label": "DRM",
+        "value": "DRM"
+    },
+    {
+        "label": "Box",
+        "value": "BOX"
+    },
+    {
+        "label": "doz",
+        "value": "DOZ"
+    }
+]

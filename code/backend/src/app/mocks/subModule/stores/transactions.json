@@ -1,0 +1,170 @@
+[
+    {
+        "_id": "655c3c423613e949b4d62129",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Goods Receipt Note[GRN]",
+        "displayName": "Goods Receipt Note[GRN]",
+        "disabled": false,
+        "url": "/default/stores/transactions/GRN/list",
+        "items": [],
+        "roles": [],
+        "featureConfig": [
+            {
+                "featureCode": "ALLOWABLE_GRN_QUANTITY_PERCENTAGE",
+                "featureDesc": "Allowable GRN Quantity Percentage",
+                "status": true,
+                "type": "text",
+                "value": "0.05"
+            }
+        ]
+    },
+    {
+        "_id": "655c3d423613e949b4d64444",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Cancel GRN",
+        "displayName": "Cancel GRN",
+        "disabled": false,
+        "url": "/default/stores/transactions/GRN/cancel_grn",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c423613e949b4d6212e",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Goods Inward Note[GIN]",
+        "displayName": "Goods Inward Note[GIN]",
+        "disabled": false,
+        "url": "/default/stores/transactions/GIN/list",
+        "items": [],
+        "roles": [],
+        "featureConfig": [
+            {
+                "featureCode": "GIN_RATE_AND_LINE_VALUE",
+                "featureDesc": "GIN with Rate & Line Value & without Rate & Line Value",
+                "status": false,
+                "type": "select",
+                "options": [
+                    {
+                        "label": "GIN With Rate & Line Value",
+                        "value": "GIN_WITH_RATE_AND_LINE_VALUE"
+                    },
+                    {
+                        "label": "GIN Without Rate & Line Value",
+                        "value": "GIN_WITHOUT_RATE_AND_LINE_VALUE"
+                    }
+                ],
+                "value": "GIN_WITH_RATE_AND_LINE_VALUE"
+            }
+        ]
+    },
+    {
+        "_id": "65fe7cf3ee3c6d494212bef1",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 5,
+        "isDisplay": false,
+        "title": "Goods Transfer Request (Intra)",
+        "displayName": "Goods Transfer Request (Intra)",
+        "disabled": false,
+        "url": "/default/stores/transactions/goods_transfer_request/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "6514ef9d81abb7d561964cc9",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 6,
+        "isDisplay": false,
+        "title": "Goods Transfer (Intra)",
+        "displayName": "Goods Transfer (Intra)",
+        "disabled": false,
+        "url": "/default/stores/transactions/gt_response/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "6673fbe5b46c3cf626342c3f",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 9,
+        "isDisplay": false,
+        "title": "Finished Goods Inward",
+        "displayName": "Finished Goods Inward",
+        "disabled": false,
+        "url": "/default/stores/transactions/multiple_fgin/form",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "66f14442a47dc0b3426dfeb0",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 10,
+        "isDisplay": false,
+        "title": "Stores Inventory Reco",
+        "displayName": "Stores Inventory Reco",
+        "disabled": false,
+        "url": "/default/stores/transactions/stores_inventory_reco/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "671341ea383e29a358a1ac16",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 11,
+        "isDisplay": false,
+        "title": "Inventory Inward Entry",
+        "displayName": "Inventory Inward Entry",
+        "disabled": false,
+        "url": "/default/stores/transactions/inventory_inward_entry/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "672f28457803f684cc898892",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 12,
+        "isDisplay": false,
+        "title": "Delivery Challan",
+        "displayName": "Delivery Challan",
+        "disabled": false,
+        "url": "/default/stores/transactions/delivery_challan/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "672f2d227803f684cc89889c",
+        "menuItemId": "64a6c1e33339d4dc9d8141a6",
+        "module": "Stores",
+        "type": "TRANSACTION",
+        "order": 13,
+        "isDisplay": false,
+        "title": "Delivery Challan E-Way Bill",
+        "displayName": "Delivery Challan E-Way Bill",
+        "disabled": false,
+        "url": "/default/stores/transactions/e_way_bill_for_dc/form",
+        "items": [],
+        "roles": []
+    }
+]

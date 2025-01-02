@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="Generator" content="EditPlus®" />
+        <meta name="Author" content="" />
+        <meta name="Keywords" content="" />
+        <meta name="Description" content="" />
+        <title>Issue Creation</title>
+        <style>
+            p {
+                font-family: "Arial";
+                font-size: 14px;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Dear Sir/Madam,</p>
+        <p>
+            We are pleased to inform you that the issue raised by {{companyName.bold()}} in the Integrated Digital
+            Management System (IDMS) under ticket number {{issueNumber}} has been attended by IDMS support team and will
+            convey status as work proceed
+        </p>
+
+        <p><b>Ticket Details</b></p>
+
+        <p><b>Ticket Number</b> : {{issueNumber}}</p>
+
+        <p><b>Date Raised</b> : {{createdAt}}</p>
+
+        <p><b>Raised By</b> : {{updatedBy}} ({{companyName}})</p>
+
+        <p><b>Module</b> : {{issueTitle}}</p>
+
+        <p><b>Description</b> : {{issueDescription}}</p>
+
+        <p><b>Attachments</b> : {{issueAttachment}}</p>
+
+        <p><b>Resolution Date</b> : {{updatedAt}}</p>
+
+        <p><b>Resolution Details</b> : {{issueResolution}}</p>
+
+        <p>
+            We appreciate your patience and cooperation throughout the resolution process. Your feedback is valuable to
+            us, so please share your experience or any suggestions for improvement.
+            <br />
+            <br />
+            <br />
+            Thank you for your support.
+            <br />
+            <br />
+            <br />
+            <b> Best regards,</b>
+            <br />
+            <br />
+            IDMS Support Team
+        </p>
+    </body>
+</html>

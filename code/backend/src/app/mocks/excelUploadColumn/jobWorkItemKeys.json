@@ -1,0 +1,12 @@
+{
+    "Item Category": "itemCategory",
+    "Job Work Item Name": "jobWorkItemName",
+    "Job Work Item Info": "jobWorkItemDescription",
+    "Primary Unit": "primaryUnit",
+    "Secondary Unit": "secondaryUnit",
+    "Conversion Factor": "primaryToSecondaryConversion",
+    "Shelf Life (Months)": "shelfLife",
+    "BOM Level": "BOMLevel",
+    "HSN Code": "HSNCode",
+    "Quality Control Level": "QCLevels"
+}

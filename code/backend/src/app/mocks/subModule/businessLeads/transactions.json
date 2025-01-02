@@ -1,0 +1,87 @@
+[
+    {
+        "_id": "655c3c1d3613e949b4d61cfa",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "order": 1,
+        "isDisplay": false,
+        "title": "NPD",
+        "displayName": "NPD Request",
+        "disabled": false,
+        "url": "/default/business-leads/transactions/npd-request/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c1d3613e949b4d61d07",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "order": 2,
+        "isDisplay": false,
+        "title": "NPD Review for Feasibility",
+        "displayName": "NPD Review for Feasibility",
+        "disabled": false,
+        "url": "/default/business-leads/transactions/npd_review_feasibility/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "6511621b81abb7d56195160a",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Job Card Creation",
+        "displayName": "Job Card Creation",
+        "disabled": false,
+        "url": "/default/business-leads/transactions/job_card/list",
+        "items": [],
+        "roles": []
+    },
+
+    {
+        "_id": "65fc53237d5e5e96fb8d7fe3",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Sample JC Creation",
+        "displayName": "Sample JC Creation",
+        "disabled": false,
+        "url": "/default/business-leads/transactions/sample_jc_creation/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "65e938d38739e2ee3e30f09a",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "order": 5,
+        "isDisplay": false,
+        "title": "Sample Request",
+        "displayName": "Sample Request",
+        "disabled": false,
+        "url": "/default/business-leads/transactions/sample_request/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "65e18c8eaa9fffad0fc46d44",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "order": 6,
+        "isDisplay": false,
+        "title": "Sample JC Entry",
+        "displayName": "Sample JC Entry",
+        "disabled": false,
+        "url": "/default/business-leads/transactions/sample_jc_entry/list",
+        "items": [],
+        "roles": []
+    }
+]

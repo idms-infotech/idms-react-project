@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "655c3c243613e949b4d61df4",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "REPORT",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Maintenance Schedule",
+        "displayName": "Maintenance Schedule",
+        "disabled": false,
+        "url": "/default/maintenance/reports/maintenance_schedule",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c243613e949b4d61df9",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "REPORT",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Work Order Status",
+        "displayName": "Work Order Status",
+        "disabled": false,
+        "url": "/default/maintenance/reports/work_order_status",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c243613e949b4d61dfe",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "REPORT",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Calibration and Verification",
+        "displayName": "Calibration and Verification",
+        "disabled": false,
+        "url": "/default/maintenance/reports/calibration_and_verification",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "672de1804fbd1aa788d5f3ba",
+        "menuItemId": "64a6c1e33339d4dc9d8141a7",
+        "module": "Maintenance",
+        "type": "REPORT",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Breakdown Maintenance",
+        "displayName": "Breakdown Maintenance",
+        "disabled": false,
+        "url": "/default/maintenance/reports/breakdown_maintenance_report",
+        "items": [],
+        "roles": []
+    }
+]

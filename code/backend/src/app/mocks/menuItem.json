@@ -1,0 +1,257 @@
+[
+    {
+        "_id": "64a6c1e33339d4dc9d8141a2",
+        "system": "main",
+        "title": "Business Leads",
+        "path": "/default/business-leads/home",
+        "activeClass": "businessLeadsA",
+        "isMenuActive": true,
+        "menuOrder": 1,
+        "image": "./assets/sideNavIcon/business_leads.svg",
+        "color": "#007DFA",
+        "isActive": "business-leads",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0260b3",
+            "64a6887c10933d2d4b0260bd"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a3",
+        "system": "main",
+        "title": "Sales",
+        "path": "/default/sales/home",
+        "activeClass": "salesA",
+        "isMenuActive": true,
+        "menuOrder": 2,
+        "image": "./assets/sideNavIcon/sales.svg",
+        "color": "#007DAF",
+        "isActive": "sales",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0260d1",
+            "64a6887c10933d2d4b0260db"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a4",
+        "system": "main",
+        "title": "Planning",
+        "path": "/default/planning/home",
+        "activeClass": "planingA",
+        "isMenuActive": true,
+        "menuOrder": 3,
+        "image": "./assets/sideNavIcon/planning.svg",
+        "color": "#007DFA",
+        "isActive": "planning",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0260ef",
+            "64a6887c10933d2d4b0260f9"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a5",
+        "system": "main",
+        "title": "Purchase",
+        "path": "/default/purchase/home",
+        "activeClass": "purchaseA",
+        "isMenuActive": true,
+        "menuOrder": 4,
+        "image": "./assets/sideNavIcon/purchase.svg",
+        "color": "#FA0096",
+        "isActive": "purchase",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b02610d",
+            "64a6887c10933d2d4b026117"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a6",
+        "system": "main",
+        "title": "Stores",
+        "path": "/default/stores/home",
+        "activeClass": "storesA",
+        "isMenuActive": true,
+        "menuOrder": 5,
+        "image": "./assets/sideNavIcon/store.svg",
+        "color": "#009696",
+        "isActive": "stores",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b02612b",
+            "64a6887c10933d2d4b026135"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a7",
+        "system": "main",
+        "title": "Maintenance",
+        "path": "/default/maintenance/home",
+        "activeClass": "maintenanceA",
+        "isMenuActive": true,
+        "menuOrder": 6,
+        "image": "./assets/sideNavIcon/maintenance.svg",
+        "color": "#FA3264",
+        "isActive": "maintenance",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b026149",
+            "64a6887c10933d2d4b026153"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a8",
+        "system": "main",
+        "title": "Production",
+        "path": "/default/production/home",
+        "activeClass": "productionA",
+        "isMenuActive": true,
+        "menuOrder": 7,
+        "image": "./assets/sideNavIcon/production.svg",
+        "color": "#007DFA",
+        "isActive": "production",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b026167",
+            "64a6887c10933d2d4b026171"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141a9",
+        "system": "main",
+        "title": "Quality",
+        "path": "/default/quality/home",
+        "activeClass": "qualityA",
+        "isMenuActive": true,
+        "menuOrder": 8,
+        "image": "./assets/sideNavIcon/quality.svg",
+        "color": "#00AF4B",
+        "isActive": "quality",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b026185",
+            "64a6887c10933d2d4b02618f"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141aa",
+        "system": "main",
+        "title": "Dispatch",
+        "path": "/default/dispatch/home",
+        "activeClass": "dispatchA",
+        "isMenuActive": true,
+        "menuOrder": 9,
+        "image": "./assets/sideNavIcon/dispatch.svg",
+        "color": "#FA3264",
+        "isActive": "dispatch",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0261a4",
+            "64a6887c10933d2d4b0261ae"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141ab",
+        "system": "main",
+        "title": "HR & Admin",
+        "path": "/default/HR/home",
+        "activeClass": "hrA",
+        "isMenuActive": true,
+        "menuOrder": 10,
+        "image": "./assets/sideNavIcon/hr.svg",
+        "color": "#007DAF",
+        "isActive": "HR",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0261bf",
+            "64a6887c10933d2d4b0261c5"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141ac",
+        "system": "main",
+        "title": "Accounts",
+        "path": "/default/accounts/home",
+        "activeClass": "accountsA",
+        "isMenuActive": false,
+        "menuOrder": 11,
+        "image": "./assets/sideNavIcon/accounts.svg",
+        "color": "#32467D",
+        "isActive": "accounts",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0261d1",
+            "64a6887c10933d2d4b0261d7"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141ad",
+        "system": "main",
+        "title": "Finance",
+        "path": "/default/finance/home",
+        "activeClass": "financeA",
+        "isMenuActive": false,
+        "menuOrder": 12,
+        "image": "./assets/sideNavIcon/finance.svg",
+        "color": "#007DFA",
+        "isActive": "finance",
+        "roles": [
+            "64a687b4e9143bffd820fb3d",
+            "64a687b4e9143bffd820fb3e",
+            "64a6887c10933d2d4b0261e3",
+            "64a6887c10933d2d4b0261e9"
+        ]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141ae",
+        "system": "main",
+        "title": "Settings",
+        "path": "/default/settings/home",
+        "activeClass": "settingsA",
+        "isMenuActive": true,
+        "menuOrder": 13,
+        "image": "./assets/sideNavIcon/settings.svg",
+        "color": "#FA3264",
+        "isActive": "settings",
+        "roles": ["64a687b4e9143bffd820fb3d", "64a6887c10933d2d4b0261f5", "64a6887c10933d2d4b0261fb"]
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141af",
+        "system": "main",
+        "title": "Support",
+        "path": "/default/supports/home",
+        "activeClass": "supportA",
+        "isMenuActive": true,
+        "menuOrder": 14,
+        "image": "./assets/sideNavIcon/support.svg",
+        "color": "#007DAF",
+        "isActive": "support",
+        "roles": []
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8141b0",
+        "system": "main",
+        "title": "Powered by IDMS",
+        "path": "#",
+        "activeClass": "idmsLogoA",
+        "isMenuActive": false,
+        "menuOrder": 15,
+        "image": "./assets/sideNavIcon/logo.svg",
+        "color": "#FA0096",
+        "isActive": "string",
+        "roles": []
+    }
+]

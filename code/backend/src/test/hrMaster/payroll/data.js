@@ -1,0 +1,23 @@
+
+// exports.PayrollCreate = {
+//     payrollForMonthYear: "2024-01",
+//     employeeId: "659e87e9179added664c6bb4",
+//     employeeCode: "E0227",
+//     employeeName: "kkk sahillonar	",
+//     department: "Stores & Dispatch",
+//     paidDays: 26,
+//     basic: 16258.06,
+//     HRA: 1625.81,
+//     CCA: 774.19,
+//     PI: 0,
+//     Ar: 0,
+//     stipend: 0,
+//     gross: 16.77,
+//     PF: 1.01,
+//     ESIC: 0.13,
+//     TDS: 10,
+//     PT: 200,
+//     advSalary: 19.67,
+//     netPayable: null,
+//     status: "Approved",
+// }

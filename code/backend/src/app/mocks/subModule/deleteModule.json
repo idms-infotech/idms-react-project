@@ -1,0 +1,602 @@
+[
+    {
+        "_id": "655c3c1a3613e949b4d61bf9",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "title": "Goods Requisition"
+    },
+    {
+        "_id": "655c3c1d3613e949b4d61d21",
+        "module": "Business Leads",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {
+        "_id": "655c3c1d3613e949b4d61d14",
+        "module": "Business Leads",
+        "type": "TRANSACTION",
+        "title": "Goods Requisition"
+    },
+    {
+        "_id": "655c3c203613e949b4d61d9a",
+        "module": "Dispatch",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c1f3613e949b4d61d75", "module": "Dispatch", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {
+        "_id": "655c3c1b3613e949b4d61c83",
+        "module": "HR & Admin",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c1a3613e949b4d61bf9", "module": "HR & Admin", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {
+        "_id": "655c3c253613e949b4d61e03",
+        "module": "Maintenance",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c233613e949b4d61de5", "module": "Maintenance", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {
+        "_id": "655c3c283613e949b4d61e57",
+        "module": "Planning",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c263613e949b4d61e2a", "module": "Planning", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {"_id": "655c3c2a3613e949b4d61e91", "module": "Production", "type": "REPORT", "title": "Goods Requisition Summary"},
+    {
+        "_id": "655c3c2b3613e949b4d61ea5",
+        "module": "Production",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c293613e949b4d61e70", "module": "Production", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {
+        "_id": "655c3c333613e949b4d61f79",
+        "module": "Purchase",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c2f3613e949b4d61f0e", "module": "Purchase", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {
+        "_id": "655c3c363613e949b4d61fe6",
+        "module": "Quality",
+        "type": "REPORT",
+        "title": "Goods Requisition Fulfillment Status"
+    },
+    {"_id": "655c3c353613e949b4d61fbe", "module": "Quality", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {"_id": "655c3c3b3613e949b4d62054", "module": "Sales", "type": "TRANSACTION", "title": "Goods Requisition"},
+    {"_id": "6684f4450513ef4fef61eb11", "module": "Planning", "type": "MASTER", "title": "Item Master (JP09)"},
+    {"_id": "668f94884cac96bb5a12de18", "module": "Planning", "type": "MASTER", "title": "Item Masters"},
+    {"_id": "668f92264cac96bb5a12de15", "module": "Planning", "type": "MASTER", "title": "SKU Masters"},
+    {"_id": "6628f3e6b0241ce6ce372a1b", "module": "Planning", "type": "MASTER", "title": "SAC Master"},
+    {"_id": "6628f265b0241ce6ce372a15", "module": "Planning", "type": "MASTER", "title": "HSN Master"},
+    {"_id": "668f95774cac96bb5a12de1b", "module": "Purchase", "type": "MASTER", "title": "Item Masters"},
+    {"_id": "668e3cea6f434b04616124ce", "module": "Sales", "type": "MASTER", "title": "SKU Masters"},
+    {"_id": "656585d2972358eaea4d5ed8", "module": "Planning", "type": "MASTER", "title": "Process Resource Management"},
+    {"_id": "655c3c283613e949b4d61e52", "module": "Planning", "type": "REPORT", "title": "Stock Transfer Report"},
+    {"_id": "655c3c323613e949b4d61f6a", "module": "Purchase", "type": "REPORT", "title": " Purchase Cost Analysis"},
+    {"_id": "65d0a5997c4a5b8391ef0e0f", "module": "Production", "type": "TRANSACTION", "title": "Job Card Output"},
+    {"_id": "65d99e09a8cf5b14d44f7b12", "module": "Quality", "type": "TRANSACTION", "title": "Job Card Output"},
+    {"_id": "655c3c283613e949b4d61e5c", "module": "Planning", "type": "REPORT", "title": "FG Inventory Location Wise"},
+    {
+        "_id": "655c3c2b3613e949b4d61eb9",
+        "module": "Production",
+        "type": "REPORT",
+        "title": "FG Inventory Location Wise"
+    },
+    {"_id": "655c3c3f3613e949b4d620c9", "module": "Sales", "type": "REPORT", "title": "FG Inventory Location Wise"},
+    {"_id": "655c3c273613e949b4d61e43", "module": "Planning", "type": "REPORT", "title": "PPIC - RM Stock"},
+    {"_id": "655c3c273613e949b4d61e4d", "module": "Planning", "type": "REPORT", "title": "PPIC - Stock Issue"},
+    {"_id": "655c3c273613e949b4d61e48", "module": "Planning", "type": "REPORT", "title": "PPIC - SFG Stock"},
+    {
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SAC-P Master",
+        "_id": "6628f3eeb0241ce6ce372a1c"
+    },
+    {
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SAC-S Master",
+        "_id": "6628f3f9b0241ce6ce372a1d"
+    },
+    {
+        "module": "Purchase",
+        "type": "MASTER",
+        "title": "Items Master",
+        "_id": "668d0bc2f982322ce7bf07e2"
+    },
+    {
+        "_id": "6683d9ee1e60fecb3c0b54fd",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "JW Principal Master"
+    },
+    {
+        "_id": "6684f4450513ef4fef61eb11",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Item Master (JP09)"
+    },
+    {
+        "_id": "656f5c12ea223fba9ce67502",
+        "module": "Accounts",
+        "type": "TRANSACTION",
+        "title": "Travel Request"
+    },
+    {
+        "_id": "6538ed359cfe0f1ec4597812",
+        "module": "Accounts",
+        "type": "TRANSACTION",
+        "title": "Invoice Payment"
+    },
+    {
+        "_id": "666c03425e5d581fa4a91032",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Stock Levels"
+    },
+    {
+        "_id": "655c3c253613e949b4d61e1b",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Child Item Master"
+    },
+    {
+        "_id": "66bc93d71669eb34bdc5e587",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Child Item Stock Levels"
+    },
+    {
+        "_id": "660aa3095fc23bb4b5494082",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Supplier Master"
+    },
+    {
+        "_id": "660aa31c5fc23bb4b5494084",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Item Master"
+    },
+    {
+        "_id": "66bf45f611fa776b486ba662",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SFG Master"
+    },
+    {
+        "_id": "66baee1d3ec18d0c69fe7e65",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Job Work Item Master"
+    },
+    {
+        "_id": "6628f271b0241ce6ce372a17",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "HSN-P Master"
+    },
+    {
+        "_id": "6628f27cb0241ce6ce372a19",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "HSN-S Master"
+    },
+    {
+        "_id": "660aa4a25fc23bb4b5494086",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "B2B Customer"
+    },
+    {
+        "_id": "6683d9ee1e60fecb3c0b54fd",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "JW Principal Master"
+    },
+    {
+        "_id": "66bc85d031b153f87afcbd9d",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Item Stock Level"
+    },
+    {
+        "_id": "66bc93d71669eb34bdc5e587",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SFG Stock Level"
+    },
+    {
+        "_id": "66bc83851669eb34bdc5e586",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SKU Stock Level"
+    },
+    {
+        "_id": "656f1b471def776e84b54bbc",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Process Master"
+    },
+    {
+        "_id": "65a25c0f59cb4c68c4d8fed9",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SKU Process Flow"
+    },
+    {
+        "_id": "660aa4cc5fc23bb4b5494088",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SKU Master"
+    },
+    {
+        "_id": "66b47cf359ab2ad7828cf4f1",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Logistics Master"
+    },
+
+    {
+        "_id": "656f5c12ea223fba9ce67502",
+        "module": "Accounts",
+        "type": "TRANSACTION",
+        "title": "Travel Request"
+    },
+    {
+        "_id": "6538ed359cfe0f1ec4597812",
+        "module": "Accounts",
+        "type": "TRANSACTION",
+        "title": "Invoice Payment"
+    },
+    {
+        "_id": "66c43aebfaca02ac6e59097d",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Supplier Master"
+    },
+    {
+        "_id": "661d17a9933df64a71334f56",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Mould Master"
+    },
+    {
+        "_id": "661d17a9933df64a71334f57",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Sales Product Master"
+    },
+    {
+        "_id": "655c3c263613e949b4d61e25",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Product Master"
+    },
+    {
+        "_id": "66c4432c80d9a5ddbf8c6cc4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SFG Master"
+    },
+    {
+        "_id": "66ceeb90886e4138b8fe3f38",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Production Unit Configuration"
+    },
+    {
+        "_id": "66cefa0c886e4138b8fe3f3d",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Inventory Zone Configuration"
+    },
+    {
+        "_id": "66cf02e6886e4138b8fe3f3e",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Production Process Configuration"
+    },
+    {
+        "_id": "6628f4efb0241ce6ce372a1e",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Transporter Master"
+    },
+    {
+        "_id": "655c3c263613e949b4d61e20",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Gr. Child Item Master"
+    },
+    {
+        "_id": "659940530707978a409984d4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SKU Cost Sheet"
+    },
+    {
+        "_id": "660aa4fc5fc23bb4b549408a",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Map Category HSN"
+    },
+    {
+        "_id": "65caff4c1269b1148011a439",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Formulation Master"
+    },
+    {
+        "_id": "659940530707978a409984d4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "SKU Cost Sheet"
+    },
+    {
+        "_id": "667e92ca31e16fa83a7bf5b3",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Process List Configuration"
+    },
+    {
+        "_id": "65741cc6b436b8140b08ea9b",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Direct Cost (Labour, Assets & Tooling)"
+    },
+    {
+        "_id": "66c449c280d9a5ddbf8c6c34",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Process Master"
+    },
+    {
+        "_id": "66c449c280d9a5ddbf8c6c11",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Process Master"
+    },
+    {
+        "_id": "66cc2d7e4f8e7246a6f7e78d",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Product Master"
+    },
+    {
+        "_id": "655c3c253613e949b4d61e08"
+    },
+    {
+        "_id": "66c449c280d9a5ddbf8c6c09"
+    },
+    {
+        "_id": "66d6dfe977fcd256f3f22e1f"
+    },
+    {
+        "_id": "66ceebd9886e4138b8fe3f39"
+    },
+    {
+        "_id": "669e48fe2e7c31ee383413aa"
+    },
+    {
+        "_id": "669e49072e7c31ee383413ab"
+    },
+    {
+        "_id": "656ae19b6af3bcb4ec7f3e1c"
+    },
+    {
+        "_id": "656ae19f6af3bcb4ec7f3fd9"
+    },
+    {
+        "_id": "669b82557410414a42d7bc92"
+    },
+    {
+        "_id": "65dc9c3581b433c9cd2b6a98"
+    },
+    {
+        "_id": "65fe7ac9ee3c6d494212bee5"
+    },
+    {
+        "_id": "66e575c449836558aead2942"
+    },
+    {
+        "_id": "666fe3734180093c52725ede"
+    },
+    {
+        "_id": "65efe7535d3dd795299b197e"
+    },
+    {
+        "_id": "655c3c293613e949b4d61e75"
+    },
+    {
+        "_id": "66824036eeb5c32cc114d44d"
+    },
+    {
+        "_id": "669a2c5f823f8c25bd82d26b"
+    },
+    {
+        "_id": "66f2653dc663be134e74db71"
+    },
+    {
+        "_id": "66f2649fc663be134e74db70"
+    },
+    {
+        "_id": "66f10211f6d4706d7e0f4dd4"
+    },
+    {
+        "_id": "66ec21e7ebb34ed0bcfdad20"
+    },
+    {
+        "_id": "655c3c293613e949b4d61e7a",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "FG Correction"
+    },
+    {
+        "_id": "655c3c293613e949b4d61e7f",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "Goods Receipt Acknowledgement"
+    },
+    {
+        "_id": "655c3c293613e949b4d61e84",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "Production Entry"
+    },
+    {
+        "_id": "66c05510fb114508b677cfa6"
+    },
+    {
+        "_id": "66c05519fb114508b677cfa7"
+    },
+    {
+        "_id": "66fbcaad374e3783c4a14cd1"
+    },
+    {
+        "_id": "66f3d7ac4c10d8c9671da0c9"
+    },
+    {
+        "_id": "66f3d7b64c10d8c9671da0ca"
+    },
+    {
+        "_id": "66f3d55d4c10d8c9671da0c7"
+    },
+    {
+        "_id": "66f3d7a34c10d8c9671da0c8"
+    },
+    {
+        "_id": "655c3c293613e949b4d61e6b",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "type": "MASTER",
+        "title": "Map Process and Machine"
+    },
+    {
+        "_id": "66f3a744ecb2b2844a94a6d3"
+    },
+    {
+        "_id": "655c3c3d3613e949b4f6308b",
+        "menuItemId": "64a6c1e33339d4dc9d8141ac",
+        "type": "REPORT",
+        "title": "Travel Request"
+    },
+    {
+        "_id": "655c3c3d3613e949b4f6309c",
+        "menuItemId": "64a6c1e33339d4dc9d8141ac",
+        "type": "REPORT",
+        "title": "Invoice Payment"
+    },
+    {
+        "_id": "655c3c3d3613e949b4f6310d",
+        "menuItemId": "64a6c1e33339d4dc9d8141ac",
+        "type": "REPORT",
+        "title": "Invoice Aging"
+    },
+    {
+        "_id": "65eac1925a50f09b09b8d404"
+    },
+    {
+        "_id": "655c3c423613e949b4d62133"
+    },
+    {
+        "_id": "6548ba2e9ac0f545c5659451"
+    },
+    {
+        "_id": "665576813905376083b560b0"
+    },
+    {
+        "_id": "66eaa47d97566e222ed1dd5d"
+    },
+    {
+        "_id": "655c3c383613e949b4d62009"
+    },
+    {
+        "_id": "655c3c3f3613e949b4d620c3"
+    },
+    {
+        "_id": "667131d418728600f251b07d"
+    },
+    {
+        "_id": "6527c6c0d15520cff95ca524"
+    },
+    {
+        "_id": "5349b4ddd2781f88c09890f0"
+    },
+    {
+        "_id": "669df3782e7c31ee383413a6"
+    },
+    {
+        "_id": "65f7dfdabb8de3268a345beb"
+    },
+    {
+        "_id": "6654369c2c850f32c4e81d04"
+    },
+    {
+        "_id": "655c3c423613e949b4d6213a"
+    },
+    {
+        "_id": "655c3c443613e949b4d6214e"
+    },
+    {
+        "_id": "655c3c483613e949b4d621b4"
+    },
+    {
+        "_id": "6630c171d3c9e3d6c299f645"
+    },
+    {
+        "_id": "655c3c2b3613e949b4d61eb4"
+    },
+    {
+        "_id": "655c3c353613e949b4d61fc3"
+    },
+    {
+        "_id": "66ee6385d14a9ff2caaf4497"
+    },
+    {
+        "_id": "5b486d4057d0e42a3ca9c106"
+    },
+    {
+        "_id": "00000020f51bb4362eee2a4d"
+    },
+    {
+        "_id": "655c3c413613e949b4d62106"
+    },
+    {
+        "_id": "655c3c413613e949b4d620fb"
+    },
+    {
+        "_id": "655c3c413613e949b4d6210e"
+    },
+    {
+        "_id": "655f42a98616746a5db8f6a2"
+    },
+    {
+        "_id": "655c3c413613e949b4d62117"
+    },
+    {
+        "_id": "655c3c403613e949b4d620eb"
+    },
+    {
+        "_id": "64a6c1e33339d4dc9d8148bd"
+    },
+    {
+        "_id": "65605835ec6279feacba1c37"
+    },
+    {
+        "_id": "655c3c403613e949b4d62022"
+    },
+    {
+        "_id": "652123b15c2c7cde6871a4d0"
+    },
+    {
+        "_id": "6746edadc962a357e0bc8819"
+    },
+    {
+        "_id": "6746ee8cc962a357e0bc8821"
+    }
+]

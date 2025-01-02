@@ -1,0 +1,15 @@
+mongoose-erd-generator -p src/app/models/accounts -f svg -o ./er_diagram/accounts-erd.svg
+mongoose-erd-generator -p src/app/models/businessLeads -f svg -o ./er_diagram/businessLeads-erd.svg
+mongoose-erd-generator -p src/app/models/dashboard -f svg -o ./er_diagram/dashboard-erd.svg
+mongoose-erd-generator -p src/app/models/dispatch -f svg -o ./er_diagram/dispatch-erd.svg
+mongoose-erd-generator -p src/app/models/finance -f svg -o ./er_diagram/finance-erd.svg
+mongoose-erd-generator -p src/app/models/HR -f svg -o ./er_diagram/HR-erd.svg
+mongoose-erd-generator -p src/app/models/maintenance -f svg -o ./er_diagram/maintenance-erd.svg
+mongoose-erd-generator -p src/app/models/planning -f svg -o ./er_diagram/planning-erd.svg
+mongoose-erd-generator -p src/app/models/production -f svg -o ./er_diagram/production-erd.svg
+mongoose-erd-generator -p src/app/models/purchase -f svg -o ./er_diagram/purchase-erd.svg
+mongoose-erd-generator -p src/app/models/quality -f svg -o ./er_diagram/quality-erd.svg
+mongoose-erd-generator -p src/app/models/sales -f svg -o ./er_diagram/sales-erd.svg
+mongoose-erd-generator -p src/app/models/stores -f svg -o ./er_diagram/stores-erd.svg
+mongoose-erd-generator -p src/app/models/settings -f svg -o ./er_diagram/settings-erd.svg
+mongoose-erd-generator -p src/app/models/supports -f svg -o ./er_diagram/supports-erd.svg

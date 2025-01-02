@@ -1,0 +1,61 @@
+<!doctype html>
+   <html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="Generator" content="EditPlus®">
+     <meta name="Author" content="">
+     <meta name="Keywords" content="">
+     <meta name="Description" content="">
+     <title>Attention! The following user has been logged into the system.</title>
+     <style>
+        body{
+         font-family:"Outfit";
+      }
+      table {
+         border-collapse: collapse;
+         width: 70%
+      }
+      td, th {
+        border: 1px solid #999;
+        padding-left: 10px;
+        text-align: left;
+        font-family:"Outfit";
+      }
+      p{
+         font-size: 15px
+      }
+      .jc {
+         color: red
+      }
+     </style>
+    </head>
+    <body>
+      <p>Dear Support Team, </p>
+      <p>{{bodyMessage}}</p>
+      <p><b>Below are the Issue Details</b>:</p>
+         <table>
+           <tr>
+           <th>Company</th>
+            <th>Code #</th>
+            <th>User ID</th>
+            <th>Name</th>
+            <th>Logged In Date</th>
+            <th>Logged In Time</th>
+            <th>Environment</th>
+            <th>IP Address</th>
+           </tr>
+           <tr>
+           <td>{{companyName}}</td>
+            <td>{{userCode}}</td>
+            <td>{{email}}</td>
+            <td>{{name}}</td>
+            <td>{{lastLoggedIn}}</td>
+            <td>{{lastLoggedInTime}}</td>
+            <td>{{env}}</td>
+            <td>{{userIP}}</td>
+           </tr>
+         </table>
+         <br></br>
+         <p><b>Note:</b> This is an auto generated email. Please do not reply. </p>
+      </body>
+   </html>

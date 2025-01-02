@@ -1,0 +1,79 @@
+[
+    {
+        "order": 1,
+        "assetClassName": "Machines",
+        "prefix": "MCH/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    },
+    {
+        "order": 2,
+        "assetClassName": "Equipment",
+        "prefix": "EQP/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    },
+    {
+        "order": 3,
+        "assetClassName": "Instrument",
+        "prefix": "INS/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    },
+    {
+        "order": 4,
+        "assetClassName": "Production Tool",
+        "prefix": "PDT/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    },
+    {
+        "order": 5,
+        "assetClassName": "Maintenance Tool",
+        "prefix": "MTT/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    },
+    {
+        "order": 6,
+        "assetClassName": "Office Equipment",
+        "prefix": "OFC/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    },
+    {
+        "order": 7,
+        "assetClassName": "IT & Network",
+        "prefix": "ITN/",
+        "nextAutoIncrement": 1,
+        "digit": 4,
+        "depreciation": true,
+        "energySpecification": false,
+        "type": "Tangible",
+        "status": "Active"
+    }
+]

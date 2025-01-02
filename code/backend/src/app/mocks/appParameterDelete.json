@@ -1,0 +1,656 @@
+[
+    {
+        "appParameterAppCode": "CURRENT_YEAR"
+    },
+    {
+        "appParameterAppCode": "MONTHLY_INVOICE_TARGET_PLAN"
+    },
+    {
+        "appParameterAppCode": "DRN_EMAIL"
+    },
+    {
+        "appParameterAppCode": "SALARY_DAYS"
+    },
+    {
+        "appParameterAppCode": "DASHBOARD_AMOUNT_IN"
+    },
+    {
+        "appParameterAppCode": "PURCHASE_REGISTER_EMAIL"
+    },
+    {
+        "appParameterAppCode": "EMP_PREFIX"
+    },
+    {
+        "appParameterAppCode": "USER_LOGGED_IN_EMAIL_FLAG"
+    },
+    {
+        "appParameterAppCode": "IMPORTS_SUPPLIER_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ISSUE_CREATION_EMAIL"
+    },
+    {
+        "appParameterAppCode": "FROM_EMAIL_NAME"
+    },
+    {
+        "appParameterAppCode": "MGMT_PHONE"
+    },
+    {
+        "appParameterAppCode": "CUST_INCO_TERMS"
+    },
+    {
+        "appParameterAppCode": "DASHBOARD_VALUES_IN"
+    },
+    {
+        "appParameterAppCode": "PRODUCTION_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_DEV_MAILS"
+    },
+    {
+        "appParameterAppCode": "SALES_MAILS"
+    },
+    {
+        "appParameterAppCode": "SUPPLIER_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DOMESTIC_SUPPLIER_PREFIX"
+    },
+    {
+        "appParameterAppCode": "REGION_ZONE"
+    },
+    {
+        "appParameterAppCode": "PR_COST_CENTER"
+    },
+    {
+        "appParameterAppCode": "REPORT_QMS_MAPPING_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "EMP_DESIGN"
+    },
+    {
+        "appParameterAppCode": "EMP_TYPE"
+    },
+    {
+        "appParameterAppCode": "EARNING_HEAD"
+    },
+    {
+        "appParameterAppCode": "EMP_CADRE"
+    },
+    {
+        "appParameterAppCode": "RM_TEST_PARAMETRS"
+    },
+    {
+        "appParameterAppCode": "NPD_PRODUCT_CATEGORY"
+    },
+    {
+        "appParameterAppCode": "OPERATION_NAMES"
+    },
+    {
+        "appParameterAppCode": "PRODUCT_CODE"
+    },
+    {
+        "appParameterAppCode": "ASSET_TYPES"
+    },
+    {
+        "appParameterAppCode": "DEPRECIATION_METHOD"
+    },
+    {
+        "appParameterAppCode": "CALIBRATION_AGENCY"
+    },
+    {
+        "appParameterAppCode": "CHECKLIST_CATEGORY"
+    },
+    {
+        "appParameterAppCode": "METRIC_TYPE"
+    },
+    {
+        "appParameterAppCode": "TECHNICIAN_ROLE"
+    },
+    {
+        "appParameterAppCode": "QUALITY_EQUIPMENT_TYPE"
+    },
+    {
+        "appParameterAppCode": "ASSET_MASTER_CONF"
+    },
+    {
+        "appParameterAppCode": "EQUIPMENT_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ALL_SO_MAILS"
+    },
+    {
+        "appParameterAppCode": "QUOTATION_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SPECIFICATION_MASTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PROFESSIONAL_TAX_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "CUSTOMER_PDIR_MAPPING_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ALL_ISSUE_CREATION_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_PO_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_GRN_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_MRN_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_GIN_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_SO_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_TI_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_SETTING_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALL_BUSINESS_MAILS"
+    },
+    {
+        "appParameterAppCode": "PAYMENT_METHOD"
+    },
+    {
+        "appParameterAppCode": "SFG_STOCK_PROCESS_NAMES"
+    },
+    {
+        "appParameterAppCode": "SFG_SHEET_STAGE"
+    },
+    {
+        "appParameterAppCode": "SFG_SHEET_MACHINE_NAME"
+    },
+    {
+        "appParameterAppCode": "SPECIFICATION_UOM"
+    },
+    {
+        "appParameterAppCode": "SALES_COUNTRY"
+    },
+    {
+        "appParameterAppCode": "TRAVEL_REQUEST_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "BOM_OF_DSKU_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DIRECT_COST_DSKU_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DSKU_COST_SHEET_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "NPD_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PROSPECT_REGISTRATION_PREFIX"
+    },
+    {
+        "appParameterAppCode": "CALIBRATION_STANDARD_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_CHECKLIST_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_METRICS_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_SCHEDULE_CREATION_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_TASK_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_TECHNICIAN_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_WARRANTY_PREFIX"
+    },
+    {
+        "appParameterAppCode": "QUALITY_EQUIPMENT_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_TASK_SCHEDULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "WORK_ORDER_GENERATION_PREFIX"
+    },
+    {
+        "appParameterAppCode": "BOM_OF_CHILD_PART_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "BOM_OF_GRAND_CHILD_ITEM_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "BOM_OF_PRODUCT_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "BOM_OF_SKU_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DIRECT_COST_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PROCESS_RESOURCE_MANAGEMENT_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PROCESS_MASTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PRODUCT_MASTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ROUTING_MASTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SFG_STOCK_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SKU_COSTING_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SKU_COST_SHEET_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "STOCK_ISSUE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "STOCK_TRANSFER_TO_STORE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "CHILD_PART_PRODUCTION_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "FG_CORRECTION_MODEL_PREFIX"
+    },
+    {
+        "appParameterAppCode": "GOODS_REQUISITION_MODEL_PREFIX"
+    },
+    {
+        "appParameterAppCode": "INK_MASTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DEBIT_NOTE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SERVICE_ORDER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MRN_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "CREDIT_NOTE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DIRECT_TAX_INVOICE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "DISPATCH_REQUEST_NOTE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PRO_FROM_INVOICE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SALES_DEBIT_NOTE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SALES_FORECAST_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SALES_SERVICE_MASTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SERVICE_INVOICE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "FREIGHT_TERMS"
+    },
+    {
+        "appParameterAppCode": "FREIGHT_CHARGE"
+    },
+    {
+        "appParameterAppCode": "TRANSPORTER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "TRANSPORTER"
+    },
+    {
+        "appParameterAppCode": "NPD_REVIEW_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "GOODS_ISSUE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SKU_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "QUOTATION_SKU_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SALES_ORDER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "FGIN_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "GRN_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "GOODS_INWARD_ENTRY_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PURCHASE_ORDER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ISSUE_TICKET_TYPE"
+    },
+    {
+        "appParameterAppCode": "PRIORITY"
+    },
+    {
+        "appParameterAppCode": "ISSUE_SEVERITY"
+    },
+    {
+        "appParameterAppCode": "EMP_DEPT"
+    },
+    {
+        "appParameterAppCode": "ISSUE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SALES_INVOICE_MODULE_DIGIT"
+    },
+    {
+        "appParameterAppCode": "INVENTORY_CORRECTION_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "TI_DOMESTIC_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "TI_EXPORTS_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "JOINING_LOCATION"
+    },
+    {
+        "appParameterAppCode": "TASK_TYPE"
+    },
+    {
+        "appParameterAppCode": "STORAGE_LOCATION"
+    },
+    {
+        "appParameterAppCode": "FREQUENCY"
+    },
+    {
+        "appParameterAppCode": "DOCUMENT_TYPES"
+    },
+    {
+        "appParameterAppCode": "AUDIT_OR_INSPECTION_TYPE"
+    },
+    {
+        "appParameterAppCode": "AUDIT_OR_INSPECTION_RESULT"
+    },
+    {
+        "appParameterAppCode": "FOLLOW_UP_STATUS"
+    },
+    {
+        "appParameterAppCode": "DISPOSAL_METHOD"
+    },
+    {
+        "appParameterAppCode": "CALIBRATION_STANDARD_TYPE"
+    },
+    {
+        "appParameterAppCode": "CLIENT_MAIL"
+    },
+    {
+        "appParameterAppCode": "CORRECTIVE_AND_PREVENTIVE_ACTION_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAINTENANCE_NOTIFICATION_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SPARE_PARTS_PREFIX"
+    },
+    {
+        "appParameterAppCode": "HSN_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "EQUIPMENT_DISPOSAL_PREFIX"
+    },
+    {
+        "appParameterAppCode": "INSPECTION_PARAMETER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "INSPECTION_METHOD_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PDIR_TEMPLATE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "TECHNICIAN_ASSIGNMENT_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SPARE_PARTS_MANAGEMENT_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ASSET_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SHIPMENT_PLANNING_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "REGION_ZONES"
+    },
+    {
+        "appParameterAppCode": "CALCULATION_METHOD"
+    },
+    {
+        "appParameterAppCode": "STANDARD_STATUS"
+    },
+    {
+        "appParameterAppCode": "TASK_SCHEDULING_STATUS"
+    },
+    {
+        "appParameterAppCode": "CALIBRATION_RESULT"
+    },
+    {
+        "appParameterAppCode": "WORK_ORDER_GENERATE_STATUS"
+    },
+    {
+        "appParameterAppCode": "TASK_STATUS"
+    },
+    {
+        "appParameterAppCode": "DELIVERY_TYPE"
+    },
+    {
+        "appParameterAppCode": "BILL_FROM_LOCATIONS"
+    },
+    {
+        "appParameterAppCode": "PRODUCT_GROUP"
+    },
+    {
+        "appParameterAppCode": "ORDER_TYPE"
+    },
+    {
+        "appParameterAppCode": "EMP_GRADE"
+    },
+    {
+        "appParameterAppCode": "Currency"
+    },
+    {
+        "appParameterAppCode": "INCO_TERMS"
+    },
+    {
+        "appParameterAppCode": "PAYMENT_TERMS"
+    },
+    {
+        "appParameterAppCode": "PURCHASE_TYPE"
+    },
+    {
+        "appParameterAppCode": "BUILD_STAGE"
+    },
+    {
+        "appParameterAppCode": "DEVELOPMENT_CHARGES"
+    },
+    {
+        "appParameterAppCode": "PART_PRODUCTION_PROCESS_NAMES"
+    },
+    {
+        "appParameterAppCode": "PART_PRODUCTION_MACHINE_NAMES"
+    },
+    {
+        "appParameterAppCode": "PART_PRODUCTION_PRODUCTION_SHIFT"
+    },
+    {
+        "appParameterAppCode": "COMPANY_TYPE"
+    },
+    {
+        "appParameterAppCode": "INK_MASTER_UOM"
+    },
+    {
+        "appParameterAppCode": "PDIR_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "LOCATION"
+    },
+    {
+        "appParameterAppCode": "RM_UOM"
+    },
+    {
+        "appParameterAppCode": "PRODUCT_CATEGORY"
+    },
+    {
+        "appParameterAppCode": "CGM_UOM"
+    },
+    {
+        "appParameterAppCode": "MODE_OF_TRANSPORT"
+    },
+    {
+        "appParameterAppCode": "PO_DOMESTIC_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "PO_IMPORTS_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "ITEM_SUB_CATEGORY"
+    },
+    {
+        "appParameterAppCode": "RAW_MATERIAL_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PRODUCTION_CONSUMABLE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ENGG_CONSUMABLE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PACKAGING_MATERIAL_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MISC_MATERIAL_PREFIX"
+    },
+    {
+        "appParameterAppCode": "TRADING_PREFIX"
+    },
+    {
+        "appParameterAppCode": "METAL_LABELS_PREFIX"
+    },
+    {
+        "appParameterAppCode": "PURCHASE_RATE_TYPE"
+    },
+    {
+        "appParameterAppCode": "CUSTOMER_RATE_TYPE"
+    },
+    {
+        "appParameterAppCode": "WXL_DIMENSIONS_UNIT"
+    },
+    {
+        "appParameterAppCode": "CONSTITUTION_OF_BUSINESS"
+    },
+    {
+        "appParameterAppCode": "SALES_CATEGORY"
+    },
+    {
+        "appParameterAppCode": "EQUIPMENT_TYPE"
+    },
+    {
+        "appParameterAppCode": "CUSTOMER_TYPE"
+    },
+    {
+        "appParameterAppCode": "GST_CLASSIFICATION"
+    },
+    {
+        "appParameterAppCode": "WARRANTY_TYPES"
+    },
+    {
+        "appParameterAppCode": "TARGET_PPM_LEVEL"
+    },
+    {
+        "appParameterAppCode": "CAPITAL_GOODS_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SALES_INVOICE_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "CALIBRATION_AND_VERIFICATION_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SFG_SHEET_STOCK_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "EXTERNAL_SERVICE_PROVIDER_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "SKU_PRODUCTION_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "GROUP_PRODUCTION_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "MAP_CATEGORY_HSN_MODULE_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ALL_OD_APPLICATION_MAILS"
+    },
+    {
+        "appParameterAppCode": "ALLOWABLE_GRN_QUANTITY_PERCENTAGE"
+    },
+    {
+        "appParameterAppCode": "SO_CONFIRMATION_TERMS_&_CONDITION"
+    },
+    {
+        "appParameterAppCode": "PAID_LEAVE_DATE_VALIDATION"
+    },
+    {
+        "appParameterAppCode": "OFFICE_STATIONERY_PREFIX"
+    },
+    {
+        "appParameterAppCode": "ADD_LAB_VALUES"
+    },
+    {
+        "appParameterAppCode": "MAX_PT_FOR_EMP"
+    },
+    {
+        "appParameterAppCode": "PI_DOMESTIC_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "PI_EXPORTS_TEMPLATE"
+    },
+    {
+        "appParameterAppCode": "SOSR_CONFIGURABLE_MONTH_VALUE"
+    },
+    {
+        "appParameterAppCode": "QUOTATION_OF_SKU_FILTER"
+    }
+]

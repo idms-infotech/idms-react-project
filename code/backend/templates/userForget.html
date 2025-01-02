@@ -1,0 +1,58 @@
+<!doctype html>
+   <html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="Generator" content="EditPlus®">
+     <meta name="Author" content="">
+     <meta name="Keywords" content="">
+     <meta name="Description" content="">
+     <title>Attention: Forget Password</title>
+     <style>
+        body{
+         font-family:"Outfit";
+      }
+      table {
+         border-collapse: collapse;
+         width: 70%
+      }
+      td, th {
+        border: 1px solid #999;
+        padding-left: 10px;
+        text-align: left;
+        font-family:"Outfit";
+      }
+      p{
+         font-size: 15px
+      }
+      .jc {
+         color: red
+      }
+     </style>
+    </head>
+    <body>
+      <h2  style=" color: #404040;  font-weight: 600; margin: 0 0 12px 0; font-size: 20px; line-height: 30px;">
+      Dear ${user.name},
+      </h2>
+      <p
+      style="
+            color: #666666;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 21px;
+      "
+      >
+      Your Email Id : <strong> ${user.email}</strong>
+      </p>
+      <p>
+      Do you want to reset password ?
+      <a
+         href="${user.url}"
+         target="blank"
+         style="color: blue; font-weight: 400"
+         >CLICK HERE</a
+      >
+      </p>
+         <br></br>
+         <p><b>Note:</b> This is an auto generated email. Please do not reply. </p>
+      </body>
+   </html>

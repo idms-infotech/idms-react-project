@@ -1,0 +1,12 @@
+{
+    "Transporter Name [Legal Entity]": "name",
+    "Type": "transporterType",
+    "Address": "address",
+    "City": "city",
+    "State": "state",
+    "Country": "country",
+    "Contact Person": "contactPerson",
+    "Phone": "phone",
+    "Email": "email",
+    "GST No.": "licenseNumber"
+}

@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "655c3c183613e949b4d61aac",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Leave Application",
+        "displayName": "Leave Application",
+        "disabled": false,
+        "url": "/default/HR/transactions/leave_application/la-list",
+        "items": [],
+        "roles": [],
+        "featureConfig": [
+            {
+                "featureCode": "PAID_LEAVE_DATE_VALIDATION",
+                "featureDesc": "Paid Leave Date Validation",
+                "status": true,
+                "type": "text",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "_id": "655c3c183613e949b4d61ad2",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Leave Adjustment",
+        "displayName": "Leave Adjustment",
+        "disabled": false,
+        "url": "/default/HR/transactions/leave_adjustment/leave-adjustment-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c193613e949b4d61b0c",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Outdoor Duty  Application",
+        "displayName": "Outdoor Duty  Application",
+        "disabled": false,
+        "url": "/default/HR/transactions/OD_application/od-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c193613e949b4d61b33",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Salary Advance Summary",
+        "displayName": "Salary Advance Summary",
+        "disabled": false,
+        "url": "/default/HR/transactions/salary_adv_summary/sas-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c193613e949b4d61b63",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 5,
+        "isDisplay": false,
+        "title": "iBAS Upload Attendance",
+        "displayName": "iBAS Upload Attendance",
+        "disabled": false,
+        "url": "/default/HR/transactions/iBAS_upload_attendance",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c193613e949b4d61ba3",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 6,
+        "isDisplay": false,
+        "title": "Attendance Review",
+        "displayName": "Attendance Review",
+        "disabled": false,
+        "url": "/default/HR/transactions/attendance_review",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c193613e949b4d61be4",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 7,
+        "isDisplay": false,
+        "title": "Payroll Management Staff",
+        "displayName": "Payroll Management Staff",
+        "disabled": false,
+        "url": "/default/HR/transactions/payroll",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "65b1fc428c59788fa13d20cd",
+        "menuItemId": "64a6c1e33339d4dc9d8141ab",
+        "module": "HR & Admin",
+        "type": "TRANSACTION",
+        "order": 8,
+        "isDisplay": false,
+        "title": "Cancel Leave",
+        "displayName": "Cancel Leave",
+        "disabled": false,
+        "url": "/default/HR/transactions/leave_application/cancel_leave_list",
+        "items": [],
+        "roles": []
+    }
+]

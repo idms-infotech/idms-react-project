@@ -1,0 +1,15 @@
+{
+    "FGIN Date": "FGINDate",
+    "Location": "location",
+    "SKU No": "SKUNo",
+    "SKU Name": "SKUName",
+    "SKU Info": "SKUDescription",
+    "Part No": "partNo",
+    "UOM": "UOM",
+    "Job Card No": "jobCardNo",
+    "Manufacturing Date": "manufacturingDate",
+    "Expiry Date": "expiryDate",
+    "Shelf Life": "shelfLife",
+    "FGIN Quantity": "FGINQuantity",
+    "Batch No": "batchNo"
+}

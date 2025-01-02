@@ -1,0 +1,72 @@
+[
+    {
+        "order": 1,
+        "costHead": "Rent",
+        "displayName": "Rent",
+        "category": "Fixed Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 2,
+        "costHead": "Indirect Salaries & benefits",
+        "displayName": "Indirect Salaries & benefits",
+        "category": "Fixed Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 3,
+        "costHead": "Insurance",
+        "displayName": "Insurance",
+        "category": "Fixed Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 4,
+        "costHead": "Maintenance & Repairs",
+        "displayName": "Maintenance & Repairs",
+        "category": "Fixed Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 5,
+        "costHead": "Consumables & Spares",
+        "displayName": "Consumables & Spares",
+        "category": "Fixed OverHead",
+        "status": "Active"
+    },
+    {
+        "order": 6,
+        "costHead": "Electricity",
+        "displayName": "Electricity",
+        "category": "Variable Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 7,
+        "costHead": "Utility",
+        "displayName": "Utility",
+        "category": "Variable Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 8,
+        "costHead": "Marketing",
+        "displayName": "Marketing",
+        "category": "Variable Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 9,
+        "costHead": "Sales & Distribution",
+        "displayName": "Sales & Distribution",
+        "category": "Variable Overhead",
+        "status": "Active"
+    },
+    {
+        "order": 10,
+        "costHead": "Admin & Other",
+        "displayName": "Admin & Other",
+        "category": "Variable Overhead",
+        "status": "Active"
+    }
+]

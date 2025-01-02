@@ -1,0 +1,546 @@
+[
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Request",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Request",
+        "action": "Update",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Review",
+        "action": "Customer Inputs",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Review",
+        "action": "Technical Review",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Review",
+        "action": "Economic Review",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Review",
+        "action": "Legal Review",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Review",
+        "action": "Operational Review",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Business Leads",
+        "subModule": "NPD Review",
+        "action": "Scheduling Review",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Credit Note",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Credit Note",
+        "action": "Modified",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Credit Note",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Credit Note",
+        "action": "Rejected",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Credit Note",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Direct Tax Invoice",
+        "action": "Generate",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Direct Tax Invoice",
+        "action": "Update",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Direct Tax Invoice",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Direct Tax Invoice",
+        "action": "Rejected",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Direct Tax Invoice",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Proforma Invoice",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Proforma Invoice",
+        "action": "Converted to SO",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Debit Note",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Debit Note",
+        "action": "Modified",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Debit Note",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Debit Note",
+        "action": "Rejected",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Debit Note",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Sales Order",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Service Invoice",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Sales",
+        "subModule": "Service Invoice",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Planning",
+        "subModule": null,
+        "action": null,
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Debit Note",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Debit Note",
+        "action": "Modified",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Debit Note",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Debit Note",
+        "action": "Rejected",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Debit Note",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Generate PO",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Generate PO",
+        "action": "Modified",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Generate PO",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Generate PO",
+        "action": "Rejected",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Purchase",
+        "subModule": "Generate PO",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Stores",
+        "subModule": "Goods Inward Note",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Stores",
+        "subModule": "Goods Receipt Note",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Stores",
+        "subModule": "Goods Receipt Note",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Stores",
+        "subModule": "Goods Receipt Note",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Maintenance",
+        "subModule": null,
+        "action": null,
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Production",
+        "subModule": null,
+        "action": null,
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Quality",
+        "subModule": "MRN",
+        "action": "Partially Released",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Quality",
+        "subModule": "MRN",
+        "action": "Released",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Quality",
+        "subModule": "MRN",
+        "action": "Report Generated",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Quality",
+        "subModule": "MRN",
+        "action": "Rejected",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Dispatch",
+        "subModule": "Advance Shipment Notice",
+        "action": "Notify Customer",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Dispatch",
+        "subModule": "Tax Invoice",
+        "action": "Generate",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "HR & Admin",
+        "subModule": "Leave Application",
+        "action": "Submit",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "HR & Admin",
+        "subModule": "Leave Application",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "HR & Admin",
+        "subModule": "Leave Application",
+        "action": "Cancelled",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "HR & Admin",
+        "subModule": "Outdoor Duty Application",
+        "action": "Submit",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "HR & Admin",
+        "subModule": "Outdoor Duty Application",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "HR & Admin",
+        "subModule": "Outdoor Duty Application",
+        "action": "Cancelled",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Accounts",
+        "subModule": null,
+        "action": null,
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Finance",
+        "subModule": null,
+        "action": null,
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Settings",
+        "subModule": "User",
+        "action": "Login",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Settings",
+        "subModule": "User",
+        "action": "Create",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Settings",
+        "subModule": "User",
+        "action": "Approved",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Support",
+        "subModule": "Raise Ticket",
+        "action": "Open",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Support",
+        "subModule": "Raise Ticket",
+        "action": "Fixed",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Support",
+        "subModule": "Raise Ticket",
+        "action": "In Progress",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Support",
+        "subModule": "Raise Ticket",
+        "action": "Deployed on Production",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Support",
+        "subModule": "Raise Ticket",
+        "action": "Verified",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    },
+    {
+        "module": "Support",
+        "subModule": "Raise Ticket",
+        "action": "Closed",
+        "emailTo": null,
+        "emailCC": null,
+        "emailBCC": null
+    }
+]

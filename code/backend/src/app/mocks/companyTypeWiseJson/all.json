@@ -1,0 +1,873 @@
+[
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "KGS",
+        "parameterLabel": "SALES_PRIMARY_UNIT",
+        "order": 1
+    },
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "BAG",
+        "parameterLabel": "SALES_SECONDARY_UNIT",
+        "order": 2
+    },
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "BAG",
+        "parameterLabel": "SALES_UOM",
+        "order": 3
+    },
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "kg",
+        "parameterLabel": "PURCHASE_UOM",
+        "order": 4
+    },
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "RL",
+        "parameterLabel": "PURCHASE_PRIMARY_UNIT",
+        "order": 5
+    },
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "SHT",
+        "parameterLabel": "PURCHASE_SECONDARY_UNIT",
+        "order": 6
+    },
+    {
+        "type": "DEFAULT_UNIT_VALUE",
+        "parameterName": "L1",
+        "parameterLabel": "CHILD_ITEM_QC_LEVELS",
+        "order": 7
+    },
+    {
+        "type": "SUPPLIER_TYPE",
+        "parameterName": "Manufacturer",
+        "parameterLabel": "Manufacturer",
+        "order": 1
+    },
+    {
+        "type": "SUPPLIER_TYPE",
+        "parameterName": "Trader",
+        "parameterLabel": "Trader",
+        "order": 2
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "B2B",
+        "parameterLabel": "B2B",
+        "order": 1
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "Trader",
+        "parameterLabel": "Trader",
+        "order": 2
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "CP",
+        "parameterLabel": "CP",
+        "order": 3
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "SP",
+        "parameterLabel": "SP",
+        "order": 4
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "JWP",
+        "parameterLabel": "JWP",
+        "order": 5
+    },
+    {
+        "type": "FREIGHT_SERVICES",
+        "parameterName": "Road",
+        "parameterLabel": "Road",
+        "order": 1
+    },
+    {
+        "type": "FREIGHT_SERVICES",
+        "parameterName": "Rail",
+        "parameterLabel": "Rail",
+        "order": 2
+    },
+    {
+        "type": "FREIGHT_SERVICES",
+        "parameterName": "Sea",
+        "parameterLabel": "Sea",
+        "order": 3
+    },
+    {
+        "type": "FREIGHT_SERVICES",
+        "parameterName": "Air",
+        "parameterLabel": "Air",
+        "order": 4
+    },
+    {
+        "type": "FREIGHT_SERVICES",
+        "parameterName": "All(3PL)",
+        "parameterLabel": "All(3PL)",
+        "order": 5
+    },
+    {
+        "type": "REGION_ZONES",
+        "parameterName": "North",
+        "parameterLabel": "North",
+        "order": 1
+    },
+    {
+        "type": "REGION_ZONES",
+        "parameterName": "South",
+        "parameterLabel": "South",
+        "order": 2
+    },
+    {
+        "type": "REGION_ZONES",
+        "parameterName": "East",
+        "parameterLabel": "East",
+        "order": 3
+    },
+    {
+        "type": "REGION_ZONES",
+        "parameterName": "West",
+        "parameterLabel": "West",
+        "order": 4
+    },
+    {
+        "type": "REGION_ZONES",
+        "parameterName": "Center",
+        "parameterLabel": "Center",
+        "order": 5
+    },
+    {
+        "type": "TASK_TYPE",
+        "parameterName": "Preventive",
+        "parameterLabel": "Preventive",
+        "order": 1
+    },
+    {
+        "type": "TASK_TYPE",
+        "parameterName": "Predictive",
+        "parameterLabel": "Predictive",
+        "order": 2
+    },
+    {
+        "type": "FREQUENCY",
+        "parameterName": "Daily",
+        "parameterLabel": "Daily",
+        "order": 1
+    },
+    {
+        "type": "FREQUENCY",
+        "parameterName": "Weekly",
+        "parameterLabel": "Weekly",
+        "order": 2
+    },
+    {
+        "type": "FREQUENCY",
+        "parameterName": "Monthly",
+        "parameterLabel": "Monthly",
+        "order": 3
+    },
+    {
+        "type": "FREQUENCY",
+        "parameterName": "Yearly",
+        "parameterLabel": "Yearly",
+        "order": 4
+    },
+    {
+        "type": "CALIBRATION_STANDARD_TYPE",
+        "parameterName": "Primary",
+        "parameterLabel": "Primary",
+        "order": 1
+    },
+    {
+        "type": "CALIBRATION_STANDARD_TYPE",
+        "parameterName": "Secondary",
+        "parameterLabel": "Secondary",
+        "order": 2
+    },
+    {
+        "type": "CALIBRATION_STANDARD_TYPE",
+        "parameterName": "Reference",
+        "parameterLabel": "Reference",
+        "order": 3
+    },
+    {
+        "type": "CALIBRATION_STANDARD_TYPE",
+        "parameterName": "Working",
+        "parameterLabel": "Working",
+        "order": 4
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Machinery",
+        "parameterLabel": "Machinery",
+        "order": 1
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Tools",
+        "parameterLabel": "Tools",
+        "order": 2
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Computers",
+        "parameterLabel": "Computers",
+        "order": 3
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Electrical Equipment",
+        "parameterLabel": "Electrical Equipment",
+        "order": 4
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "HVAC Equipment",
+        "parameterLabel": "HVAC Equipment",
+        "order": 5
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Laboratory Equipment",
+        "parameterLabel": "Laboratory Equipment",
+        "order": 6
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Production Equipment",
+        "parameterLabel": "Production Equipment",
+        "order": 7
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Testing Equipment",
+        "parameterLabel": "Testing Equipment",
+        "order": 8
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Safety Equipment",
+        "parameterLabel": "Safety Equipment",
+        "order": 9
+    },
+    {
+        "type": "EQUIPMENT_TYPE",
+        "parameterName": "Other Equipment",
+        "parameterLabel": "Other Equipment",
+        "order": 10
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "Domestic – OEM",
+        "parameterLabel": "Domestic – OEM",
+        "order": 1
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "Domestic – Dealer",
+        "parameterLabel": "Domestic – Dealer",
+        "order": 2
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "Exports – OEM",
+        "parameterLabel": "Exports – OEM",
+        "order": 3
+    },
+    {
+        "type": "CUSTOMER_TYPE",
+        "parameterName": "Exports – Dealer",
+        "parameterLabel": "Exports – Dealer",
+        "order": 4
+    },
+    {
+        "type": "GST_CLASSIFICATION",
+        "parameterName": "B2B Regular",
+        "parameterLabel": "B2B Regular",
+        "order": 1
+    },
+    {
+        "type": "GST_CLASSIFICATION",
+        "parameterName": "SEZ",
+        "parameterLabel": "SEZ",
+        "order": 2
+    },
+    {
+        "type": "GST_CLASSIFICATION",
+        "parameterName": "Composite",
+        "parameterLabel": "Composite",
+        "order": 3
+    },
+    {
+        "type": "WARRANTY_TYPES",
+        "parameterName": "Product Warranty",
+        "parameterLabel": "Product Warranty",
+        "order": 1
+    },
+    {
+        "type": "WARRANTY_TYPES",
+        "parameterName": "Service Warranty",
+        "parameterLabel": "Service Warranty",
+        "order": 2
+    },
+    {
+        "type": "CALCULATION_METHOD",
+        "parameterName": "Average",
+        "parameterLabel": "Average",
+        "order": 1
+    },
+    {
+        "type": "CALCULATION_METHOD",
+        "parameterName": "Sum",
+        "parameterLabel": "Sum",
+        "order": 2
+    },
+    {
+        "type": "CALCULATION_METHOD",
+        "parameterName": "Count",
+        "parameterLabel": "Count",
+        "order": 3
+    },
+    {
+        "type": "CALCULATION_METHOD",
+        "parameterName": "Percentage",
+        "parameterLabel": "Percentage",
+        "order": 4
+    },
+    {
+        "type": "STANDARD_STATUS",
+        "parameterName": "Active",
+        "parameterLabel": "Active",
+        "order": 1
+    },
+    {
+        "type": "STANDARD_STATUS",
+        "parameterName": "Inactive",
+        "parameterLabel": "Inactive",
+        "order": 2
+    },
+    {
+        "type": "STANDARD_STATUS",
+        "parameterName": "Under Repair",
+        "parameterLabel": "Under Repair",
+        "order": 3
+    },
+    {
+        "type": "TASK_SCHEDULING_STATUS",
+        "parameterName": "Scheduled",
+        "parameterLabel": "Scheduled",
+        "order": 1
+    },
+    {
+        "type": "TASK_SCHEDULING_STATUS",
+        "parameterName": "Completed",
+        "parameterLabel": "Completed",
+        "order": 2
+    },
+    {
+        "type": "TASK_SCHEDULING_STATUS",
+        "parameterName": "On Hold",
+        "parameterLabel": "On Hold",
+        "order": 3
+    },
+    {
+        "type": "TASK_SCHEDULING_STATUS",
+        "parameterName": "Cancelled",
+        "parameterLabel": "Cancelled",
+        "order": 4
+    },
+    {
+        "type": "CALIBRATION_RESULT",
+        "parameterName": "Passed",
+        "parameterLabel": "Passed",
+        "order": 3
+    },
+    {
+        "type": "CALIBRATION_RESULT",
+        "parameterName": "Failed",
+        "parameterLabel": "Failed",
+        "order": 4
+    },
+    {
+        "type": "WORK_ORDER_GENERATE_STATUS",
+        "parameterName": "Open",
+        "parameterLabel": "Open",
+        "order": 1
+    },
+    {
+        "type": "WORK_ORDER_GENERATE_STATUS",
+        "parameterName": "In Progress",
+        "parameterLabel": "In Progress",
+        "order": 2
+    },
+    {
+        "type": "WORK_ORDER_GENERATE_STATUS",
+        "parameterName": "Completed",
+        "parameterLabel": "Completed",
+        "order": 3
+    },
+    {
+        "type": "TASK_STATUS",
+        "parameterName": "Open",
+        "parameterLabel": "Open",
+        "order": 1
+    },
+    {
+        "type": "TASK_STATUS",
+        "parameterName": "Completed",
+        "parameterLabel": "Completed",
+        "order": 2
+    },
+    {
+        "type": "TASK_STATUS",
+        "parameterName": "In Progress",
+        "parameterLabel": "In Progress",
+        "order": 3
+    },
+    {
+        "type": "TASK_STATUS",
+        "parameterName": "On Hold",
+        "parameterLabel": "On Hold",
+        "order": 4
+    },
+    {
+        "type": "TASK_STATUS",
+        "parameterName": "Cancelled",
+        "parameterLabel": "Cancelled",
+        "order": 5
+    },
+    {
+        "type": "DELIVERY_TYPE",
+        "parameterName": "Door Delivery",
+        "parameterLabel": "Door Delivery",
+        "order": 4
+    },
+    {
+        "type": "DELIVERY_TYPE",
+        "parameterName": "Godown",
+        "parameterLabel": "Godown",
+        "order": 5
+    },
+    {
+        "type": "ORDER_TYPE",
+        "parameterName": "Repeat",
+        "parameterLabel": "Repeat",
+        "order": 1
+    },
+    {
+        "type": "ORDER_TYPE",
+        "parameterName": "One time project",
+        "parameterLabel": "One time project",
+        "order": 2
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": "Sole Proprietorship",
+        "parameterLabel": "Sole Proprietorship",
+        "order": 1
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": "Partnership",
+        "parameterLabel": "Partnership",
+        "order": 2
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": "Limited Liability Partnership (LLP)",
+        "parameterLabel": "Limited Liability Partnership (LLP)",
+        "order": 3
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": "Private Limited",
+        "parameterLabel": "Private Limited",
+        "order": 4
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": "Public Limited",
+        "parameterLabel": "Public Limited",
+        "order": 5
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": ",One Person Company (OPC)",
+        "parameterLabel": ",One Person Company (OPC)",
+        "order": 6
+    },
+    {
+        "type": "CONSTITUTION_OF_BUSINESS",
+        "parameterName": ",Producer Company",
+        "parameterLabel": ",Producer Company",
+        "order": 7
+    },
+    {
+        "type": "CURRENCY",
+        "parameterName": "INR",
+        "parameterLabel": "INR",
+        "order": 1
+    },
+    {
+        "type": "CURRENCY",
+        "parameterName": "Euro",
+        "parameterLabel": "Euro",
+        "order": 2
+    },
+    {
+        "type": "CURRENCY",
+        "parameterName": "USD",
+        "parameterLabel": "USD",
+        "order": 3
+    },
+    {
+        "type": "PURCHASE_TYPE",
+        "parameterName": "Domestic",
+        "parameterLabel": "Domestic",
+        "order": 1
+    },
+    {
+        "type": "PURCHASE_TYPE",
+        "parameterName": "Imports",
+        "parameterLabel": "Imports",
+        "order": 2
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "6B - Entry Level",
+        "parameterLabel": "6B - Entry Level",
+        "order": 1
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "6A - Sr-Officer-Function",
+        "parameterLabel": "6A - Sr-Officer-Function",
+        "order": 2
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "5B - Executive-Function",
+        "parameterLabel": "5B - Executive-Function",
+        "order": 3
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "5A - Sr-executive",
+        "parameterLabel": "5A - Sr-executive",
+        "order": 4
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "4C - Asst. Manager",
+        "parameterLabel": "4C - Asst. Manager",
+        "order": 5
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "4B-Manager",
+        "parameterLabel": "4B-Manager",
+        "order": 6
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "4A-Sr Manager",
+        "parameterLabel": "4A-Sr Manager",
+        "order": 7
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "3C-Asst. General Manager",
+        "parameterLabel": "3C-Asst. General Manager",
+        "order": 8
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "3B-Dy. General Manager",
+        "parameterLabel": "3B-Dy. General Manager",
+        "order": 9
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "3A - General Manager",
+        "parameterLabel": "3A - General Manager",
+        "order": 10
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "2C - Associate Vice President",
+        "parameterLabel": "2C - Associate Vice President",
+        "order": 11
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "2B - Vice President",
+        "parameterLabel": "2B - Vice President",
+        "order": 12
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "2A - Executive Vice President",
+        "parameterLabel": "2A - Executive Vice President",
+        "order": 13
+    },
+    {
+        "type": "EMP_GRADE",
+        "parameterName": "1 - CEO/ED/MD",
+        "parameterLabel": "1 - CEO/ED/MD",
+        "order": 14
+    },
+    {
+        "type": "BUILD_STAGE",
+        "parameterName": "Prototype",
+        "parameterLabel": "Prototype",
+        "order": 1
+    },
+    {
+        "type": "BUILD_STAGE",
+        "parameterName": "Pilot",
+        "parameterLabel": "Pilot",
+        "order": 2
+    },
+    {
+        "type": "BUILD_STAGE",
+        "parameterName": "Production",
+        "parameterLabel": "Production",
+        "order": 3
+    },
+    {
+        "type": "DEVELOPMENT_CHARGES",
+        "parameterName": "Customer",
+        "parameterLabel": "Customer",
+        "order": 1
+    },
+    {
+        "type": "DEVELOPMENT_CHARGES",
+        "parameterName": "Prospect",
+        "parameterLabel": "Prospect",
+        "order": 2
+    },
+    {
+        "type": "DEVELOPMENT_CHARGES",
+        "parameterName": "Self",
+        "parameterLabel": "Self",
+        "order": 3
+    },
+    {
+        "type": "DEVELOPMENT_CHARGES",
+        "parameterName": "DTPL",
+        "parameterLabel": "DTPL",
+        "order": 4
+    },
+    {
+        "type": "INK_MASTER_UOM",
+        "parameterName": "KG",
+        "parameterLabel": "KG",
+        "order": 1
+    },
+    {
+        "type": "INK_MASTER_UOM",
+        "parameterName": "GM",
+        "parameterLabel": "GM",
+        "order": 2
+    },
+    {
+        "type": "INK_MASTER_UOM",
+        "parameterName": "LTR",
+        "parameterLabel": "LTR",
+        "order": 3
+    },
+    {
+        "type": "LOCATION",
+        "parameterName": "Warehouse",
+        "parameterLabel": "Warehouse",
+        "order": 1
+    },
+    {
+        "type": "LOCATION",
+        "parameterName": "Factory",
+        "parameterLabel": "Factory",
+        "order": 2
+    },
+    {
+        "type": "CGM_UOM",
+        "parameterName": "NOS",
+        "parameterLabel": "NOS",
+        "order": 1
+    },
+    {
+        "type": "CGM_UOM",
+        "parameterName": "Set",
+        "parameterLabel": "Set",
+        "order": 2
+    },
+    {
+        "type": "MODE_OF_TRANSPORT",
+        "parameterName": "Road",
+        "parameterLabel": "Road",
+        "order": 1
+    },
+    {
+        "type": "MODE_OF_TRANSPORT",
+        "parameterName": "Air",
+        "parameterLabel": "Air",
+        "order": 2
+    },
+    {
+        "type": "MODE_OF_TRANSPORT",
+        "parameterName": "Rail",
+        "parameterLabel": "Rail",
+        "order": 3
+    },
+    {
+        "type": "MODE_OF_TRANSPORT",
+        "parameterName": "Sea",
+        "parameterLabel": "Sea",
+        "order": 4
+    },
+    {
+        "type": "PO_DOMESTIC_TEMPLATE",
+        "parameterName": "Regular POD",
+        "parameterLabel": "Regular POD",
+        "order": 1
+    },
+    {
+        "type": "PO_DOMESTIC_TEMPLATE",
+        "parameterName": "PO Domestic",
+        "parameterLabel": "PO Domestic",
+        "order": 2
+    },
+
+    {
+        "type": "WXL_DIMENSIONS_UNIT",
+        "parameterName": "Roll",
+        "parameterLabel": "Roll",
+        "order": 1
+    },
+    {
+        "type": "WXL_DIMENSIONS_UNIT",
+        "parameterName": "Sheet",
+        "parameterLabel": "Sheet",
+        "order": 2
+    },
+    {
+        "type": "WXL_DIMENSIONS_UNIT",
+        "parameterName": "SQM",
+        "parameterLabel": "SQM",
+        "order": 3
+    },
+    {
+        "type": "WXL_DIMENSIONS_UNIT",
+        "parameterName": "SQ.FT",
+        "parameterLabel": "SQ.FT",
+        "order": 4
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Paper",
+        "parameterLabel": "Paper",
+        "order": 1
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Adhesive",
+        "parameterLabel": "Adhesive",
+        "order": 2
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Glue",
+        "parameterLabel": "Glue",
+        "order": 3
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Fuel",
+        "parameterLabel": "Fuel",
+        "order": 4
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Inks",
+        "parameterLabel": "Inks",
+        "order": 5
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "General",
+        "parameterLabel": "General",
+        "order": 6
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Thickner",
+        "parameterLabel": "Thickner",
+        "order": 7
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Starch",
+        "parameterLabel": "Starch",
+        "order": 8
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Cartons",
+        "parameterLabel": "Cartons",
+        "order": 9
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Polybags",
+        "parameterLabel": "Polybags",
+        "order": 10
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "PaperCores",
+        "parameterLabel": "PaperCores",
+        "order": 11
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Chemicals",
+        "parameterLabel": "Chemicals",
+        "order": 12
+    },
+    {
+        "type": "ITEM_SUB_CATEGORY",
+        "parameterName": "Labels",
+        "parameterLabel": "Labels",
+        "order": 13
+    },
+    {
+        "type": "PURCHASE_RATE_TYPE",
+        "parameterName": "Standard",
+        "parameterLabel": "Standard",
+        "order": 1
+    },
+    {
+        "type": "PURCHASE_RATE_TYPE",
+        "parameterName": "Volume Based",
+        "parameterLabel": "Volume Based",
+        "order": 2
+    },
+    {
+        "type": "CUSTOMER_RATE_TYPE",
+        "parameterName": "Std. Selling",
+        "parameterLabel": "Std. Selling",
+        "order": 1
+    },
+    {
+        "type": "CUSTOMER_RATE_TYPE",
+        "parameterName": "Process Cost",
+        "parameterLabel": "Process Cost",
+        "order": 2
+    }
+]

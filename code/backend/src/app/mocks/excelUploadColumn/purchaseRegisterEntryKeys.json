@@ -1,0 +1,18 @@
+{
+    "P/Entry Date": "PEntryDate",
+    "Supplier Name": "supplierName",
+    "GSTIN of Supplier": "supplierGST",
+    "Purchase Category": "purchaseCategory",
+    "Tax Invoice No.": "taxInvoiceNo",
+    "Tax Invoice Date": "taxInvoiceDate",
+    "Taxable Amount": "taxableAmt",
+    "SGST Amount": "SGSTAmt",
+    "CGST Amount": "CGSTAmt",
+    "IGST Amount": "IGSTAmt",
+    "Total Amount": "totalAmt",
+    "TCS Amount": "TCSAmt",
+    "Round off Amount": "roundOffAmt",
+    "Net Amount": "roundOffTotalAmt",
+    "Remarks": "remarks",
+    "Cancellation Reason": "cancellationReason"
+}

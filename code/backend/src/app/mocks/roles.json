@@ -1,0 +1,275 @@
+[
+    {
+        "_id": "64a687b4e9143bffd820fb3d",
+        "company": null,
+        "roleCode": "R00001",
+        "roleName": "Super Admin",
+        "displayRoleName": "Super Admin",
+        "redirectTo": "./default/purchase/home"
+    },
+    {
+        "_id": "64a687b4e9143bffd820fb3e",
+        "company": null,
+        "roleCode": "R00002",
+        "roleName": "Admin",
+        "displayRoleName": "Admin",
+        "redirectTo": "./default/purchase/home"
+    },
+    {
+        "_id": "64a687b4e9143bffd820fb4d",
+        "company": null,
+        "roleCode": "R00003",
+        "roleName": "Employee",
+        "displayRoleName": "Employee",
+        "redirectTo": "Employee"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0260b3",
+        "company": null,
+        "roleCode": "R00005",
+        "roleName": "Business Leads Manager",
+        "displayRoleName": "Business Leads Manager",
+        "redirectTo": "./default/business-leads/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0260bd",
+        "company": null,
+        "roleCode": "R00006",
+        "roleName": "Business Leads Admin",
+        "displayRoleName": "Business Leads Admin",
+        "redirectTo": "./default/business-leads/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0260d1",
+        "company": null,
+        "roleCode": "R00008",
+        "roleName": "Sales Manager",
+        "displayRoleName": "Sales Manager",
+        "redirectTo": "./default/sales/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0260db",
+        "company": null,
+        "roleCode": "R00009",
+        "roleName": "Sales Admin",
+        "displayRoleName": "Sales Admin",
+        "redirectTo": "./default/sales/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0260ef",
+        "company": null,
+        "roleCode": "R00011",
+        "roleName": "Planning Manager",
+        "displayRoleName": "Planning Manager",
+        "redirectTo": "./default/planning/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0260f9",
+        "company": null,
+        "roleCode": "R00012",
+        "roleName": "Planning Admin",
+        "displayRoleName": "Planning Admin",
+        "redirectTo": "./default/planning/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b02610d",
+        "company": null,
+        "roleCode": "R00014",
+        "roleName": "Purchase Manager",
+        "displayRoleName": "Purchase Manager",
+        "redirectTo": "./default/purchase/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026117",
+        "company": null,
+        "roleCode": "R00015",
+        "roleName": "Purchase Admin",
+        "displayRoleName": "Purchase Admin",
+        "redirectTo": "./default/purchase/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b02612b",
+        "company": null,
+        "roleCode": "R00017",
+        "roleName": "Stores Manager",
+        "displayRoleName": "Stores Manager",
+        "redirectTo": "./default/stores/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026135",
+        "company": null,
+        "roleCode": "R00018",
+        "roleName": "Stores Admin",
+        "displayRoleName": "Stores Admin",
+        "redirectTo": "./default/stores/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026149",
+        "company": null,
+        "roleCode": "R00020",
+        "roleName": "Maintenance Manager",
+        "displayRoleName": "Maintenance Manager",
+        "redirectTo": "./default/maintenance/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026153",
+        "company": null,
+        "roleCode": "R00021",
+        "roleName": "Maintenance Admin",
+        "displayRoleName": "Maintenance Admin",
+        "redirectTo": "./default/maintenance/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026167",
+        "company": null,
+        "roleCode": "R00023",
+        "roleName": "Production Manager",
+        "displayRoleName": "Production Manager",
+        "redirectTo": "./default/production/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026171",
+        "company": null,
+        "roleCode": "R00024",
+        "roleName": "Production Admin",
+        "displayRoleName": "Production Admin",
+        "redirectTo": "./default/production/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b026185",
+        "company": null,
+        "roleCode": "R00026",
+        "roleName": "Quality Manager",
+        "displayRoleName": "Quality Manager",
+        "redirectTo": "./default/quality/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b02618f",
+        "company": null,
+        "roleCode": "R00027",
+        "roleName": "Quality Admin",
+        "displayRoleName": "Quality Admin",
+        "redirectTo": "./default/quality/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261a4",
+        "company": null,
+        "roleCode": "R00029",
+        "roleName": "Dispatch Manager",
+        "displayRoleName": "Dispatch Manager",
+        "redirectTo": "./default/dispatch/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261ae",
+        "company": null,
+        "roleCode": "R00030",
+        "roleName": "Dispatch Admin",
+        "displayRoleName": "Dispatch Admin",
+        "redirectTo": "./default/dispatch/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261bf",
+        "company": null,
+        "roleCode": "R00032",
+        "roleName": "HR Manager",
+        "displayRoleName": "HR Manager",
+        "redirectTo": "./default/HR/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261c5",
+        "company": null,
+        "roleCode": "R00033",
+        "roleName": "HR Admin",
+        "displayRoleName": "HR Admin",
+        "redirectTo": "./default/HR/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261d1",
+        "company": null,
+        "roleCode": "R00035",
+        "roleName": "Accounts Manager",
+        "displayRoleName": "Accounts Manager",
+        "redirectTo": "./default/accounts/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261d7",
+        "company": null,
+        "roleCode": "R00036",
+        "roleName": "Accounts Admin",
+        "displayRoleName": "Accounts Admin",
+        "redirectTo": "./default/accounts/home"
+    },
+
+    {
+        "_id": "64a6887c10933d2d4b0261e3",
+        "company": null,
+        "roleCode": "R00038",
+        "roleName": "Finance Manager",
+        "displayRoleName": "Finance Manager",
+        "redirectTo": "./default/finance/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261e9",
+        "company": null,
+        "roleCode": "R00039",
+        "roleName": "Finance Admin",
+        "displayRoleName": "Finance Admin",
+        "redirectTo": "./default/finance/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261f5",
+        "company": null,
+        "roleCode": "R00041",
+        "roleName": "Settings Manager",
+        "displayRoleName": "Settings Manager",
+        "redirectTo": "./default/settings/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261fb",
+        "company": null,
+        "roleCode": "R00042",
+        "roleName": "Settings Admin",
+        "displayRoleName": "Settings Admin",
+        "redirectTo": "./default/settings/home"
+    },
+    {
+        "_id": "64a6887c10933d2d4b0261fe",
+        "company": null,
+        "roleCode": "R00043",
+        "roleName": "Owner",
+        "displayRoleName": "Owner",
+        "redirectTo": "./default/company-profile"
+    },
+    {
+        "_id": "64a687b4e9123cffd820fb4d",
+        "company": null,
+        "roleCode": "R00044",
+        "roleName": "Accounts Incharge",
+        "displayRoleName": "Accounts Incharge",
+        "redirectTo": "./default/accounts/home"
+    },
+    {
+        "_id": "6676887c10933d2d4b026879",
+        "company": null,
+        "roleCode": "R00045",
+        "roleName": "Production Incharge",
+        "displayRoleName": "Production Incharge",
+        "redirectTo": "./default/production/home"
+    },
+    {
+        "_id": "6676887c10933d2d4b889879",
+        "company": null,
+        "roleCode": "R00046",
+        "roleName": "Plant Head",
+        "displayRoleName": "Plant Head",
+        "redirectTo": "./default/purchase/home"
+    },
+    {
+        "_id": "6676887dde933d2d4b889879",
+        "company": null,
+        "roleCode": "R00047",
+        "roleName": "Purchase Incharge",
+        "displayRoleName": "Purchase Incharge",
+        "redirectTo": "./default/purchase/home"
+    }
+]

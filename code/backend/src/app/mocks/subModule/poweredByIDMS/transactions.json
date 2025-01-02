@@ -1,0 +1,25 @@
+[
+    {
+        "_id": "66e3ee4f7d89aa1637ba0458",
+        "menuItemId": null,
+        "module": "PoweredByIDMS",
+        "type": "TRANSACTION",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Global Features",
+        "displayName": "Global Features",
+        "disabled": false,
+        "url": null,
+        "featureConfig": [
+            {
+                "featureCode": "QUOTATION_OF_SKU_FILTER",
+                "featureDesc": "Filter For SKU By Order Type",
+                "status": true,
+                "type": "text",
+                "value": "All"
+            }
+        ],
+        "items": [],
+        "roles": []
+    }
+]

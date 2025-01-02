@@ -1,0 +1,87 @@
+[
+    {
+        "_id": "6718a16143e48e206dec3708",
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Prod Unit Without SKU"
+    },
+    {
+        "_id": "6718a91e43e48e206dec370b",
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Prod Unit With SKU"
+    },
+    {
+        "_id": "6718e54d7720db3f6e1e11c3",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "MASTER",
+        "title": "Prod Unit Without SKU"
+    },
+    {
+        "_id": "6718e5317720db3f6e1e11c1",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "MASTER",
+        "title": "Prod Unit With SKU"
+    },
+
+    {
+        "_id": "6718eadf7720db3f6e1e11c5",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "Prod Unit Without SKU"
+    },
+    {
+        "_id": "6718eae87720db3f6e1e11c6",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "Prod Unit With SKU"
+    },
+    {
+        "_id": "671c9839355ec3b1c42e9690",
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Prod Unit With Formulation"
+    },
+    {
+        "_id": "673d8361cd319962052a1a26",
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Prod Item BOM Without SKU"
+    },
+    {
+        "_id": "673d841acd319962052a1a28",
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Prod Item BOM With Formulation"
+    },
+    {
+        "_id": "673ef7d1d5cad15d8b4b2f36",
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "module": "Planning",
+        "type": "MASTER",
+        "title": "Prod Unit With Material"
+    },
+    {
+        "_id": "674574dc82b34ee8cdfbd4bc",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "Prod Unit With Formulation"
+    },
+    {
+        "_id": "6746ee2ec962a357e0bc881a",
+        "menuItemId": "64a6c1e33339d4dc9d8141a8",
+        "module": "Production",
+        "type": "TRANSACTION",
+        "title": "Prod Unit With Material"
+    }
+]

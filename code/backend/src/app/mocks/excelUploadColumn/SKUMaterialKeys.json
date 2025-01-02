@@ -1,0 +1,16 @@
+{
+    "SKU No": "SKUNo",
+    "Item Code": "itemCode",
+    "Item Name": "itemName",
+    "Item Info": "itemDescription",
+    "UOM": "UoM",
+    "Child Primary Unit": "primaryUnit",
+    "Child Secondary Unit": "secondaryUnit",
+    "Width": "width",
+    "Length": "length",
+    "Width Unit": "widthUnit",
+    "Length Unit": "lengthUnit",
+    "Conversion of Units": "primaryToSecondaryConversion",
+    "Qty/Layout": "qtyPerSKUUnit",
+    "Ups": "ups"
+}

@@ -1,0 +1,8 @@
+{
+    "Item No.": "itemCode",
+    "UOM": "UOM",
+    "Batch No.": "batchCardNo",
+    "Batch Date (YY-MM-DD)": "batchCardClosureDate",
+    "Inward Qty.": "batchOutputQty",
+    "Location": "location"
+}

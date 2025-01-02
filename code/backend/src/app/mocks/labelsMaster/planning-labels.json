@@ -1,0 +1,127 @@
+[
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SKU Name",
+        "displayLabelName": "SKU Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SKU No.",
+        "displayLabelName": "SKU No."
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SKU Info",
+        "displayLabelName": "SKU Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "D-SKU Name",
+        "displayLabelName": "D-SKU Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "D-SKU Info",
+        "displayLabelName": "D-SKU Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SKU Name is Required",
+        "displayLabelName": "SKU Name is Required"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SKU Info is Required",
+        "displayLabelName": "SKU Info is Required"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Operation Name is Required",
+        "displayLabelName": "Operation Name is Required"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Operation Name",
+        "displayLabelName": "Operation Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Item Code",
+        "displayLabelName": "Item Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Item Name",
+        "displayLabelName": "Item Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Item Info",
+        "displayLabelName": "Item Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Item Cost",
+        "displayLabelName": "Item Cost"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Supplier Item Code",
+        "displayLabelName": "Supplier Item Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Supplier Item Info",
+        "displayLabelName": "Supplier Item Info"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Child Item Code",
+        "displayLabelName": "Child Item Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Child Item Description",
+        "displayLabelName": "Child Item Description"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "Child Item Name",
+        "displayLabelName": "Child Item Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SFG Code",
+        "displayLabelName": "SFG Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SFG Description",
+        "displayLabelName": "SFG Description"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "JW Item Code",
+        "displayLabelName": "JW Item Code"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "JW Item Description",
+        "displayLabelName": "JW Item Description"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "JW Item Name",
+        "displayLabelName": "JW Item Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "SFG Name",
+        "displayLabelName": "SFG Name"
+    },
+    {
+        "menuItemId": "64a6c1e33339d4dc9d8141a4",
+        "labelName": "FIN Qty (PC)",
+        "displayLabelName": "FIN Qty (PC)"
+    }
+]

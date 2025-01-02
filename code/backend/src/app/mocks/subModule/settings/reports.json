@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "66fbcfd0374e3783c4a14cd4",
+        "menuItemId": "64a6c1e33339d4dc9d8141ae",
+        "module": "Settings",
+        "type": "REPORT",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Inventory Update",
+        "displayName": "Inventory Update",
+        "disabled": false,
+        "url": "/default/settings/reports/inventory_updates",
+        "items": [],
+        "roles": []
+    }
+]

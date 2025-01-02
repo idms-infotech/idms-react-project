@@ -1,0 +1,28 @@
+[
+    {
+        "_id": "66ee25dbbadf15f481a1f25b",
+        "srNo": "1",
+        "invZoneName": "Main Store",
+        "invZoneCode": "STR",
+        "status": "Active",
+        "revisionInfo": {
+            "revisionNo": 0,
+            "reasonForRevision": "-",
+            "revisionProposedBy": "-",
+            "revisionApprovedBy": "IDMS Support"
+        }
+    },
+    {
+        "_id": "671f397c9bbfa88c60fdd0d2",
+        "srNo": "2",
+        "invZoneName": "Quarantine Store",
+        "invZoneCode": "QST",
+        "status": "Active",
+        "revisionInfo": {
+            "revisionNo": 0,
+            "reasonForRevision": "-",
+            "revisionProposedBy": "-",
+            "revisionApprovedBy": "IDMS Support"
+        }
+    }
+]

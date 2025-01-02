@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "655c3c203613e949b4d61d9f",
+        "menuItemId": "64a6c1e33339d4dc9d8141ad",
+        "module": "Finance",
+        "type": "REPORT",
+        "order": 1,
+        "isDisplay": false,
+        "title": "FG Inventory Value",
+        "displayName": "FG Inventory Value",
+        "disabled": false,
+        "url": "/default/finance/reports/FG_inventory_value",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "667fce8bcb63ebcf797ecc6c",
+        "menuItemId": "64a6c1e33339d4dc9d8141ad",
+        "module": "Finance",
+        "type": "REPORT",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Finished Goods (FG)",
+        "displayName": "Finished Goods (FG)",
+        "disabled": false,
+        "url": "/default/finance/reports/fg_inventory_report",
+        "items": [],
+        "roles": []
+    }
+]

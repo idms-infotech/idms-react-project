@@ -1,0 +1,42 @@
+[
+    {
+        "appParameterAppCode": "ENABLE_DIRECT_TAX_INVOICE",
+        "appParameterName": "ENABLE_DIRECT_TAX_INVOICE",
+        "appParameterValue": "No"
+    },
+    {
+        "appParameterAppCode": "PDIR_ENTRY_MODULE_PREFIX",
+        "appParameterName": "PDIR Entry",
+        "appParameterValue": "PDIR"
+    },
+    {
+        "appParameterAppCode": "AUDIT_FLAG",
+        "appParameterName": "Audit Flag",
+        "appParameterValue": "yes"
+    },
+    {
+        "appParameterAppCode": "PAT_SKU_COST_SHEET",
+        "appParameterName": "Tax Value For Profit In SKU Cost Sheet",
+        "appParameterValue": "30"
+    },
+    {
+        "appParameterAppCode": "QUOTATION_DSKU_MODULE_PREFIX",
+        "appParameterName": "Quotation DSKU Module Prefix",
+        "appParameterValue": "Q-DSKU/"
+    },
+    {
+        "appParameterAppCode": "STOCK_LEVEL_BUTTON_CHECK",
+        "appParameterName": "Stock Level Button",
+        "appParameterValue": "Yes"
+    },
+    {
+        "appParameterAppCode": "SERI_PRINTS_COMPANY_TERMS_&_CONDITION",
+        "appParameterName": "Seri Prints",
+        "appParameterValue": "Seri Prints Pvt. Ltd."
+    },
+    {
+        "appParameterAppCode": "COMPANY_TERMS_&_CONDITION",
+        "appParameterName": "iLABELS",
+        "appParameterValue": "Integral Labels Pvt. Ltd."
+    }
+]

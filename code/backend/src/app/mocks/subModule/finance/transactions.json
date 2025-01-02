@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "65214e416dda7b965c538abe",
+        "menuItemId": "64a6c1e33339d4dc9d8141ad",
+        "module": "Finance",
+        "type": "TRANSACTION",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Direct Cost",
+        "displayName": "Direct Cost",
+        "disabled": false,
+        "url": "/default/finance/transactions/direct_cost/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "6521531d9d45469a59bf2dab",
+        "menuItemId": "64a6c1e33339d4dc9d8141ad",
+        "module": "Finance",
+        "type": "TRANSACTION",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Cost Sheet",
+        "displayName": "Cost Sheet",
+        "disabled": false,
+        "url": "/default/finance/transactions/sku_cost_sheet/list",
+        "items": [],
+        "roles": []
+    }
+]

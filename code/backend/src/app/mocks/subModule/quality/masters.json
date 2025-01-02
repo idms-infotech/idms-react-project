@@ -1,0 +1,124 @@
+[
+    {
+        "_id": "655c3c343613e949b4d61f94",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Specification Master",
+        "displayName": "Specification Master",
+        "disabled": false,
+        "url": "/default/quality/master/specification_master/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "65d5cfd414d0459ac3b87e4f",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Item Category Specifications",
+        "displayName": "Item Category Specifications",
+        "disabled": false,
+        "url": "/default/quality/master/item_category_specifications/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c343613e949b4d61fa3",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 3,
+        "isDisplay": false,
+        "title": "RM Specifications",
+        "displayName": "RM Specifications",
+        "disabled": false,
+        "url": "/default/quality/master/rm_specifications/list",
+        "items": [],
+        "roles": [],
+        "featureConfig": [
+            {
+                "featureCode": "SHOW_QUALITY_LEVELS",
+                "featureDesc": "Show Quality Levels",
+                "status": false,
+                "type": "text",
+                "value": "L1,L2,L3"
+            }
+        ]
+    },
+    {
+        "_id": "65d311021ef98bb9daed625b",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Product Category Specifications",
+        "displayName": "Product Category Specifications",
+        "disabled": false,
+        "url": "/default/quality/master/product_category_specifications/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c343613e949b4d61fad",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 5,
+        "isDisplay": false,
+        "title": "Product Specifications",
+        "displayName": "Product Specifications",
+        "disabled": false,
+        "url": "/default/quality/master/product_specifications/list",
+        "items": [],
+        "roles": []
+    },
+
+    {
+        "_id": "655c3c343613e949b4d61f9e",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 6,
+        "isDisplay": false,
+        "title": "Item Master",
+        "displayName": "Item Master",
+        "disabled": false,
+        "url": "/default/quality/master/items/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c343613e949b4d61f99",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 7,
+        "isDisplay": false,
+        "title": "SKU Master",
+        "displayName": "SKU Master",
+        "disabled": false,
+        "url": "/default/quality/master/sku/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "5f92cdce0cf217478ba93563",
+        "menuItemId": "64a6c1e33339d4dc9d8141a9",
+        "module": "Quality",
+        "type": "MASTER",
+        "order": 8,
+        "isDisplay": false,
+        "title": "Supplier Evaluation Master",
+        "displayName": "Supplier Evaluation Master",
+        "disabled": false,
+        "url": "/default/quality/master/supplier-evaluation/list",
+        "items": [],
+        "roles": []
+    }
+]

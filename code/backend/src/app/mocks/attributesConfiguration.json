@@ -1,0 +1,156 @@
+[
+    {
+        "type": "SKU",
+        "items": [
+            {
+                "order": 1,
+                "tabName": "Dimensions",
+                "tabDisplayName": "Dimensions",
+                "status": true
+            },
+            {
+                "order": 2,
+                "tabName": "Materials",
+                "tabDisplayName": "Materials",
+                "status": true
+            },
+            {
+                "order": 3,
+                "tabName": "Colours",
+                "tabDisplayName": "Colours",
+                "status": true
+            },
+            {
+                "order": 4,
+                "tabName": "Drawing",
+                "tabDisplayName": "Drawing",
+                "status": true
+            },
+            {
+                "order": 5,
+                "tabName": "Specs (G)",
+                "tabDisplayName": "Specs (G)",
+                "status": true
+            },
+            {
+                "order": 6,
+                "tabName": "Specs (T)",
+                "tabDisplayName": "Specs (T)",
+                "status": true
+            },
+            {
+                "order": 7,
+                "tabName": "Storage",
+                "tabDisplayName": "Storage",
+                "status": true
+            },
+            {
+                "order": 8,
+                "tabName": "Cost Sheet",
+                "tabDisplayName": "Cost Sheet",
+                "status": true
+            },
+            {
+                "order": 9,
+                "tabName": "BOM Dim",
+                "tabDisplayName": "BOM Dim",
+                "status": true
+            },
+            {
+                "order": 10,
+                "tabName": "Offtake",
+                "tabDisplayName": "Offtake",
+                "status": true
+            },
+            {
+                "order": 11,
+                "tabName": "Tool Info",
+                "tabDisplayName": "Tool Info",
+                "status": true
+            },
+            {
+                "order": 12,
+                "tabName": "Specs",
+                "tabDisplayName": "Specs",
+                "status": true
+            },
+            {
+                "order": 13,
+                "tabName": "Moulds ID",
+                "tabDisplayName": "Moulds ID",
+                "status": true
+            },
+            {
+                "order": 14,
+                "tabName": "Packing Std",
+                "tabDisplayName": "Packing Std",
+                "status": true
+            }
+        ]
+    },
+    {
+        "type": "D-SKU",
+        "items": [
+            {
+                "order": 1,
+                "tabName": "Dimensions",
+                "tabDisplayName": "Dimensions",
+                "status": true
+            },
+            {
+                "order": 2,
+                "tabName": "Materials",
+                "tabDisplayName": "Materials",
+                "status": true
+            },
+            {
+                "order": 3,
+                "tabName": "Colours",
+                "tabDisplayName": "Colours",
+                "status": true
+            },
+            {
+                "order": 4,
+                "tabName": "Drawing",
+                "tabDisplayName": "Drawing",
+                "status": true
+            },
+            {
+                "order": 5,
+                "tabName": "Specs (G)",
+                "tabDisplayName": "Specs (G)",
+                "status": true
+            },
+            {
+                "order": 6,
+                "tabName": "Specs (T)",
+                "tabDisplayName": "Specs (T)",
+                "status": true
+            },
+            {
+                "order": 7,
+                "tabName": "Storage",
+                "tabDisplayName": "Storage",
+                "status": true
+            },
+            {
+                "order": 8,
+                "tabName": "Cost Sheet",
+                "tabDisplayName": "Cost Sheet",
+                "status": true
+            },
+            {
+                "order": 9,
+                "tabName": "BOM Dim",
+                "tabDisplayName": "BOM Dim",
+                "status": true
+            },
+            {
+                "order": 10,
+                "tabName": "Offtake",
+                "tabDisplayName": "Offtake",
+                "status": true
+            }
+        ]
+    }
+]

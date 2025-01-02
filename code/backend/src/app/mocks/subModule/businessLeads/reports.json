@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "655c3c1e3613e949b4d61d2d",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "REPORT",
+        "order": 1,
+        "isDisplay": false,
+        "title": "NPD Status Report",
+        "displayName": "NPD Status Report",
+        "disabled": false,
+        "url": "/default/business-leads/reports/npd_status",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c1e3613e949b4d61d39",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "REPORT",
+        "order": 2,
+        "isDisplay": false,
+        "title": "NPD Lost Order analysis",
+        "displayName": "NPD Lost Order analysis",
+        "disabled": false,
+        "url": "/default/business-leads/reports/npd_lost_order_analysis",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "65e035a6a3daa6a871c6021d",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "REPORT",
+        "order": 3,
+        "isDisplay": false,
+        "title": "Sample JC Creation",
+        "displayName": "Sample JC Creation",
+        "disabled": false,
+        "url": "/default/business-leads/reports/sample_jc_creation_report",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "6566b2e02bc60081acf59edc",
+        "menuItemId": "64a6c1e33339d4dc9d8141a2",
+        "module": "Business Leads",
+        "type": "REPORT",
+        "order": 4,
+        "isDisplay": false,
+        "title": "Sample Request",
+        "displayName": "Sample Request",
+        "disabled": false,
+        "url": "/default/business-leads/reports/sample_request_report",
+        "items": [],
+        "roles": []
+    }
+]

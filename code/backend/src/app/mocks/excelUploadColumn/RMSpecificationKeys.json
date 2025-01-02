@@ -1,0 +1,9 @@
+{
+    "ItemCategory": "itemCategory",
+    "ItemCode": "itemCode",
+    "Seq": "seq",
+    "SpecCode": "specificationCode",
+    "Spec Value": "specValue",
+    "LTL": "LTL",
+    "UTL": "UTL"
+}

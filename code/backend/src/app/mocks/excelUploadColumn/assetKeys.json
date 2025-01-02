@@ -1,0 +1,18 @@
+{
+    "Asset Class": "assetType",
+    "Asset Name": "assetName",
+    "Asset Description": "assetDescription",
+    "Purchase Cost": "assetPurchaseCost",
+    "Purchase Date": "assetPurchaseDate",
+    "Depreciation Start Date": "depreciationStartDate",
+    "Location": "location",
+    "Finance Cost": "financeCost",
+    "Total Asset Cost": "totalAssetClass",
+    "Estimated Useful Life In Year": "estimatedUsefulLifeInYear",
+    "Depreciated Asset Cost/Year": "depreciatedAssetCostPerYear",
+    "Machine Efficiency %": "machineEfficiencyPercentage",
+    "No Of Operational Days/Year": "noOfOperationalDaysPerYear",
+    "No Of Shifts/Days": "noOfShiftsRunPerDays",
+    "Total Cost/Hr": "totalAssetCostPerHr",
+    "Total Cost/Shift": "totalAssetCostPerShift"
+}

@@ -1,0 +1,199 @@
+[
+    {
+        "_id": "655c3c373613e949b4d61ff0",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 1,
+        "isDisplay": false,
+        "title": "HSN Master",
+        "displayName": "HSN Master",
+        "disabled": false,
+        "url": "/default/sales/master/hsn/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c373613e949b4d61ffa",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 2,
+        "isDisplay": false,
+        "title": "B2B Customer",
+        "displayName": "B2B Customer",
+        "disabled": false,
+        "url": "/default/sales/master/customer/list",
+        "featureConfig": [
+            {
+                "featureCode": "B2B_CUSTOMER_WACO_TRANSPORTER",
+                "featureDesc": "Transporter Button For Waco",
+                "status": false,
+                "type": "checkbox",
+                "value": false
+            },
+            {
+                "featureCode": "SHOW_CUSTOMER_NAME_AND_PLANT_DETAILS",
+                "featureDesc": "Show Customer Name And Plant Details",
+                "status": true,
+                "type": "checkbox",
+                "value": true
+            }
+        ],
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c373613e949b4d61ff5",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 4,
+        "isDisplay": false,
+        "title": "SAC Master",
+        "displayName": "SAC Master",
+        "disabled": false,
+        "url": "/default/sales/master/sac/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c373613e949b4d61fff",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "roles": [],
+        "type": "MASTER",
+        "order": 4,
+        "isDisplay": true,
+        "title": "SKU Master",
+        "displayName": "SKU Master",
+        "disabled": false,
+        "featureConfig": [
+            {
+                "featureCode": "SHOW_SKU_INFO",
+                "featureDesc": "SKU Info Button",
+                "status": false,
+                "type": "select",
+                "options": [
+                    {"label": "On", "value": "ON"},
+                    {"label": "Off", "value": "OFF"}
+                ],
+                "value": "OFF"
+            }
+        ],
+        "url": "/default/sales/master/sku/list",
+        "items": []
+    },
+    {
+        "_id": "655c3c383613e949b4d62004",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 5,
+        "isDisplay": false,
+        "title": "Service Master",
+        "displayName": "Service Master",
+        "disabled": false,
+        "url": "/default/sales/master/service/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c383613e949b4d62018",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 6,
+        "isDisplay": false,
+        "title": "Payment Terms",
+        "displayName": "Payment Terms",
+        "disabled": false,
+        "url": "/default/sales/master/sales_payment_terms/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c383613e949b4d6200e",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 7,
+        "isDisplay": false,
+        "title": "Transporter Master",
+        "displayName": "Transporter Master",
+        "disabled": false,
+        "url": "/default/sales/master/transporter/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c383613e949b4d62013",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 8,
+        "isDisplay": false,
+        "title": "Map Category HSN",
+        "displayName": "Map Category HSN",
+        "disabled": false,
+        "url": "/default/sales/master/map_category_hsn/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "664b15610f4f985c76cdadf4",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 9,
+        "isDisplay": false,
+        "title": "Discount Management",
+        "displayName": "Discount Management",
+        "disabled": false,
+        "url": "/default/sales/master/discount_management/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "65d069c91c80760d1e4ef480",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 10,
+        "isDisplay": false,
+        "title": "Product Master",
+        "displayName": "Product Master",
+        "disabled": false,
+        "url": "/default/sales/master/sales_product_master/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "670531d31160b2abe9b09e0b",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 12,
+        "isDisplay": false,
+        "title": "Logistics Master",
+        "displayName": "Logistics Master",
+        "disabled": false,
+        "url": "/default/sales/master/logistic_master/list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "670f9b561e976ad397157169",
+        "menuItemId": "64a6c1e33339d4dc9d8141a3",
+        "module": "Sales",
+        "type": "MASTER",
+        "order": 13,
+        "isDisplay": false,
+        "title": "Customer Open PO",
+        "displayName": "Customer Open PO",
+        "disabled": false,
+        "url": "/default/sales/master/customer_open_po/list",
+        "items": [],
+        "roles": []
+    }
+]

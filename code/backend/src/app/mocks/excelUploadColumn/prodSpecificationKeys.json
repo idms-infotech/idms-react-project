@@ -1,0 +1,9 @@
+{
+    "Product Category": "productCategory",
+    "SKU No": "SKUNo",
+    "Seq": "seq",
+    "SpecCode": "specificationCode",
+    "Spec Value": "specValue",
+    "LTL": "LTL",
+    "UTL": "UTL"
+}

@@ -1,0 +1,57 @@
+<!doctype html>
+   <html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="Generator" content="EditPlus®">
+     <meta name="Author" content="">
+     <meta name="Keywords" content="">
+     <meta name="Description" content="">
+     <title>Report Issue</title>
+     <style>
+        body{
+         font-family:"Arial"
+      }
+      table {
+         border-collapse: collapse;
+         width: 70%
+      }
+      td, th {
+        border: 1px solid #999;
+        padding: 0.5rem;
+        text-align: left;
+      }
+      p{
+         font-size: "16px"
+      }
+      .jc {
+         color:"red"
+      }
+     </style>
+    </head>
+    <body>
+      <p>Dear Support Team, </p>
+      <p>${bodyMessage}</p>
+      <p><b>Below are the Issue Details</b>:</p>
+         <table>
+           <tr>
+            <th>Issue #</th>
+            <th>Module</th>
+            <th>Issue Description</th>
+            <th>Raised By</th>
+            <th>Company</th>
+           </tr>
+           <tr>
+            <td>${issue.issueNumber}</td>
+            <td>${issue.issueTitle}</td>
+            <td>${issue.issueDescription}</td>
+            <td>${issue.createdBy.name}</td>
+            <td>${issue.company.name}</td>
+           </tr>
+         </table>
+         <br></br>
+         <p><b>Thanks & Regards,</b></p>
+         <p>${issue.createdBy.name}</p>
+         <br></br>
+         <p><b>Note:</b> This is an auto generated email. Please do not reply. </p>
+      </body>
+   </html>

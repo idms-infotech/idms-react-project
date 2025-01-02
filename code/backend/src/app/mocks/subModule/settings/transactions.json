@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "655c3c413613e949b4d6211f",
+        "menuItemId": "64a6c1e33339d4dc9d8141ae",
+        "module": "Settings",
+        "type": "TRANSACTION",
+        "order": 1,
+        "isDisplay": false,
+        "title": "Auto Increment",
+        "displayName": "Auto Increment",
+        "disabled": false,
+        "url": "/default/settings/transactions/auto_increment/AI-list",
+        "items": [],
+        "roles": []
+    },
+    {
+        "_id": "655c3c423613e949b4d62124",
+        "menuItemId": "64a6c1e33339d4dc9d8141ae",
+        "module": "Settings",
+        "type": "TRANSACTION",
+        "order": 2,
+        "isDisplay": false,
+        "title": "Application Parameters",
+        "displayName": "Application Parameters",
+        "disabled": false,
+        "url": "/default/settings/transactions/app_parameters/AP-list",
+        "items": [],
+        "roles": []
+    }
+]

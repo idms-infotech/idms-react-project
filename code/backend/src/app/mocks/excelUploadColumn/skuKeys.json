@@ -1,0 +1,21 @@
+{
+    "SKU Stage": "SKUStage",
+    "Product Category": "productCategory",
+    "SKU Name": "SKUName",
+    "SKU Info": "SKUDescription",
+    "HSN Code": "hsn",
+    "Shelf Life": "shelfLife",
+    "Primary Unit": "primaryUnit",
+    "Secondary Unit": "secondaryUnit",
+    "Primary to Secondary Conversion": "primaryToSecondaryConversion",
+    "Customer Code": "customerCode",
+    "Customer Part Description": "customerPartDescription",
+    "Part No": "customerPartNo",
+    "Rate Type": "rateType",
+    "MOQ 1": "MOQ1",
+    "Standard Selling Rate 1": "rate1",
+    "MOQ 2": "MOQ2",
+    "Standard Selling Rate 2": "rate2",
+    "MOQ 3": "MOQ3",
+    "Standard Selling Rate 3": "rate3"
+}

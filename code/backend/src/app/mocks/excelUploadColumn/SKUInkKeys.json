@@ -1,0 +1,14 @@
+{
+    "SKU No": "SKUNo",
+    "Col. Seq.": "colSeq",
+    "Item Code": "itemCode",
+    "Item Name": "itemName",
+    "Item Info": "itemDescription",
+    "UOM": "UoM",
+    "Mesh #": "mesh",
+    "GSM": "GSM",
+    "Area sqm": "areaSqm",
+    "Ink Area %": "inkArea",
+    "Ink Area sqm": "inkAreaSqm",
+    "Qty/SKU": "ink"
+}
