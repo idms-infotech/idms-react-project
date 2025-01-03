@@ -55,12 +55,10 @@ const Login = () => {
       <div className="flashScreen">
         {!isLoading ? (
           <img src="../assets/company/splash.svg" alt="Splash Screen" className="scale-up-center" />
-        ) :
-         (
+        ) : (
           <div className="row loginFlash login-card">
             <div className="col part-1 text-center">
-              {/* <img src={logo} alt="Logo" className="img-fluid" /> */}
-              <img src="../../assets/companies/login_logo.svg" alt="Logo" className="img-fluid" />
+              <img src="{logo}" alt="Logo" className="img-fluid" />
             </div>
             <div className="col part-2 text-center">
               <img src={welcomeInfo} alt="Welcome" className="img-welcome img-fluid" />
